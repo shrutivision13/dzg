@@ -1,0 +1,10 @@
+2024-07-29T17:09:07.273Z [INFO]: IND_current_time: 2024-07-29 22:39:07 PM, message: MongoDB connected.
+2024-07-29T17:09:09.712Z [INFO]: IND_current_time: 2024-07-29 22:39:09 PM, message: MongoDB connected.
+2024-07-29T17:09:13.729Z [INFO]: IND_current_time: 2024-07-29 22:39:13 PM, message: MongoDB connected.
+2024-07-29T17:09:13.935Z [INFO]: IND_current_time: 2024-07-29 22:39:13 PM, message: MongoDB connected.
+2024-07-29T17:09:28.608Z [INFO]: IND_current_time: 2024-07-29 22:39:28 PM, message: MongoDB connected.
+2024-07-29T17:10:06.873Z [INFO]: IND_current_time: 2024-07-29 22:40:06 PM, message: MongoDB connected.
+2024-07-29T17:10:09.117Z [INFO]: IND_current_time: 2024-07-29 22:40:09 PM, message: PDF generated successfully.
+2024-07-29T17:10:09.149Z [INFO]: IND_current_time: 2024-07-29 22:40:09 PM, message: MongoDB connected.
+2024-07-29T17:10:14.984Z [INFO]: IND_current_time: 2024-07-29 22:40:14 PM, message: MongoDB connected.
+2024-07-29T17:10:15.025Z [INFO]: IND_current_time: 2024-07-29 22:40:15 PM, message: MongoDB connected.

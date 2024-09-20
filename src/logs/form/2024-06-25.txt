@@ -1,0 +1,291 @@
+2024-06-25T06:39:18.816Z [INFO]: IND_current_time: 2024-06-25 12:09:18 PM, message: MongoDB connected.
+2024-06-25T06:39:24.941Z [INFO]: IND_current_time: 2024-06-25 12:09:24 PM, message: MongoDB connected.
+2024-06-25T06:39:54.528Z [INFO]: IND_current_time: 2024-06-25 12:09:54 PM, message: MongoDB connected.
+2024-06-25T06:39:56.711Z [INFO]: IND_current_time: 2024-06-25 12:09:56 PM, message: MongoDB connected.
+2024-06-25T06:42:37.775Z [INFO]: IND_current_time: 2024-06-25 12:12:37 PM, message: MongoDB connected.
+2024-06-25T06:42:42.051Z [INFO]: IND_current_time: 2024-06-25 12:12:42 PM, message: MongoDB connected.
+2024-06-25T06:43:08.202Z [INFO]: IND_current_time: 2024-06-25 12:13:08 PM, message: MongoDB connected.
+2024-06-25T06:43:09.657Z [INFO]: IND_current_time: 2024-06-25 12:13:09 PM, message: MongoDB connected.
+2024-06-25T06:43:46.233Z [INFO]: IND_current_time: 2024-06-25 12:13:46 PM, message: MongoDB connected.
+2024-06-25T06:43:49.857Z [INFO]: IND_current_time: 2024-06-25 12:13:49 PM, message: MongoDB connected.
+2024-06-25T06:44:26.795Z [INFO]: IND_current_time: 2024-06-25 12:14:26 PM, message: MongoDB connected.
+2024-06-25T06:44:28.456Z [INFO]: IND_current_time: 2024-06-25 12:14:28 PM, message: MongoDB connected.
+2024-06-25T07:11:38.677Z [INFO]: IND_current_time: 2024-06-25 12:41:38 PM, message: MongoDB connected.
+2024-06-25T07:11:43.281Z [INFO]: IND_current_time: 2024-06-25 12:41:43 PM, message: MongoDB connected.
+2024-06-25T09:13:41.319Z [INFO]: IND_current_time: 2024-06-25 14:43:41 PM, message: MongoDB connected.
+2024-06-25T09:13:44.211Z [INFO]: IND_current_time: 2024-06-25 14:43:44 PM, message: MongoDB connected.
+2024-06-25T09:13:50.854Z [INFO]: IND_current_time: 2024-06-25 14:43:50 PM, message: MongoDB connected.
+2024-06-25T09:14:17.761Z [INFO]: IND_current_time: 2024-06-25 14:44:17 PM, message: MongoDB connected.
+2024-06-25T09:14:18.356Z [INFO]: IND_current_time: 2024-06-25 14:44:18 PM, message: MongoDB connected.
+2024-06-25T09:14:24.045Z [INFO]: IND_current_time: 2024-06-25 14:44:24 PM, message: MongoDB connected.
+2024-06-25T09:14:27.620Z [INFO]: IND_current_time: 2024-06-25 14:44:27 PM, message: MongoDB connected.
+2024-06-25T09:15:04.885Z [INFO]: IND_current_time: 2024-06-25 14:45:04 PM, message: MongoDB connected.
+2024-06-25T09:15:32.695Z [INFO]: IND_current_time: 2024-06-25 14:45:32 PM, message: MongoDB connected.
+2024-06-25T09:15:37.901Z [INFO]: IND_current_time: 2024-06-25 14:45:37 PM, message: MongoDB connected.
+2024-06-25T09:15:40.837Z [INFO]: IND_current_time: 2024-06-25 14:45:40 PM, message: MongoDB connected.
+2024-06-25T09:15:43.233Z [INFO]: IND_current_time: 2024-06-25 14:45:43 PM, message: MongoDB connected.
+2024-06-25T09:15:47.445Z [INFO]: IND_current_time: 2024-06-25 14:45:47 PM, message: MongoDB connected.
+2024-06-25T09:15:48.493Z [INFO]: IND_current_time: 2024-06-25 14:45:48 PM, message: MongoDB connected.
+2024-06-25T09:15:52.132Z [INFO]: IND_current_time: 2024-06-25 14:45:52 PM, message: MongoDB connected.
+2024-06-25T09:15:52.347Z [INFO]: IND_current_time: 2024-06-25 14:45:52 PM, message: MongoDB connected.
+2024-06-25T09:17:37.400Z [INFO]: IND_current_time: 2024-06-25 14:47:37 PM, message: MongoDB connected.
+2024-06-25T09:17:41.759Z [INFO]: IND_current_time: 2024-06-25 14:47:41 PM, message: MongoDB connected.
+2024-06-25T09:21:56.632Z [INFO]: IND_current_time: 2024-06-25 14:51:56 PM, message: MongoDB connected.
+2024-06-25T09:22:06.819Z [INFO]: IND_current_time: 2024-06-25 14:52:06 PM, message: MongoDB connected.
+2024-06-25T09:22:09.971Z [INFO]: IND_current_time: 2024-06-25 14:52:09 PM, message: MongoDB connected.
+2024-06-25T09:22:15.057Z [INFO]: IND_current_time: 2024-06-25 14:52:15 PM, message: MongoDB connected.
+2024-06-25T09:22:19.795Z [INFO]: IND_current_time: 2024-06-25 14:52:19 PM, message: MongoDB connected.
+2024-06-25T09:22:20.336Z [INFO]: IND_current_time: 2024-06-25 14:52:20 PM, message: MongoDB connected.
+2024-06-25T09:22:27.220Z [INFO]: IND_current_time: 2024-06-25 14:52:27 PM, message: MongoDB connected.
+2024-06-25T09:22:30.417Z [INFO]: IND_current_time: 2024-06-25 14:52:30 PM, message: MongoDB connected.
+2024-06-25T09:22:31.014Z [INFO]: IND_current_time: 2024-06-25 14:52:31 PM, message: MongoDB connected.
+2024-06-25T09:22:47.678Z [INFO]: IND_current_time: 2024-06-25 14:52:47 PM, message: MongoDB connected.
+2024-06-25T09:22:49.218Z [INFO]: IND_current_time: 2024-06-25 14:52:49 PM, message: MongoDB connected.
+2024-06-25T09:22:49.406Z [INFO]: IND_current_time: 2024-06-25 14:52:49 PM, message: MongoDB connected.
+2024-06-25T09:22:49.616Z [INFO]: IND_current_time: 2024-06-25 14:52:49 PM, message: MongoDB connected.
+2024-06-25T09:23:03.501Z [INFO]: IND_current_time: 2024-06-25 14:53:03 PM, message: MongoDB connected.
+2024-06-25T09:23:03.570Z [ERROR]: IND_current_time: 2024-06-25 14:53:03 PM, message: Main catch error: {} message:Could not find Chrome (ver. 119.0.6045.105). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: /root/.cache/puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+2024-06-25T09:24:03.613Z [INFO]: IND_current_time: 2024-06-25 14:54:03 PM, message: MongoDB connected.
+2024-06-25T09:27:41.300Z [INFO]: IND_current_time: 2024-06-25 14:57:41 PM, message: MongoDB connected.
+2024-06-25T09:36:38.720Z [INFO]: IND_current_time: 2024-06-25 15:06:38 PM, message: MongoDB connected.
+2024-06-25T09:41:35.273Z [INFO]: IND_current_time: 2024-06-25 15:11:35 PM, message: MongoDB connected.
+2024-06-25T09:41:39.762Z [INFO]: IND_current_time: 2024-06-25 15:11:39 PM, message: MongoDB connected.
+2024-06-25T09:41:41.621Z [INFO]: IND_current_time: 2024-06-25 15:11:41 PM, message: MongoDB connected.
+2024-06-25T09:42:25.023Z [INFO]: IND_current_time: 2024-06-25 15:12:25 PM, message: MongoDB connected.
+2024-06-25T09:42:33.055Z [INFO]: IND_current_time: 2024-06-25 15:12:33 PM, message: MongoDB connected.
+2024-06-25T09:42:45.803Z [INFO]: IND_current_time: 2024-06-25 15:12:45 PM, message: MongoDB connected.
+2024-06-25T09:42:46.344Z [INFO]: IND_current_time: 2024-06-25 15:12:46 PM, message: MongoDB connected.
+2024-06-25T09:45:48.196Z [INFO]: IND_current_time: 2024-06-25 15:15:48 PM, message: MongoDB connected.
+2024-06-25T09:46:35.482Z [INFO]: IND_current_time: 2024-06-25 15:16:35 PM, message: MongoDB connected.
+2024-06-25T09:46:40.611Z [INFO]: IND_current_time: 2024-06-25 15:16:40 PM, message: MongoDB connected.
+2024-06-25T09:46:45.011Z [INFO]: IND_current_time: 2024-06-25 15:16:45 PM, message: MongoDB connected.
+2024-06-25T09:46:49.020Z [INFO]: IND_current_time: 2024-06-25 15:16:49 PM, message: MongoDB connected.
+2024-06-25T09:46:55.511Z [INFO]: IND_current_time: 2024-06-25 15:16:55 PM, message: MongoDB connected.
+2024-06-25T09:46:56.129Z [INFO]: IND_current_time: 2024-06-25 15:16:56 PM, message: MongoDB connected.
+2024-06-25T09:47:19.225Z [INFO]: IND_current_time: 2024-06-25 15:17:19 PM, message: MongoDB connected.
+2024-06-25T09:47:20.533Z [INFO]: IND_current_time: 2024-06-25 15:17:20 PM, message: MongoDB connected.
+2024-06-25T09:47:20.660Z [INFO]: IND_current_time: 2024-06-25 15:17:20 PM, message: MongoDB connected.
+2024-06-25T09:47:20.936Z [INFO]: IND_current_time: 2024-06-25 15:17:20 PM, message: MongoDB connected.
+2024-06-25T09:47:40.520Z [INFO]: IND_current_time: 2024-06-25 15:17:40 PM, message: MongoDB connected.
+2024-06-25T09:47:40.564Z [ERROR]: IND_current_time: 2024-06-25 15:17:40 PM, message: Main catch error: {} message:Could not find Chrome (ver. 119.0.6045.105). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: /root/.cache/puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+2024-06-25T09:48:55.269Z [INFO]: IND_current_time: 2024-06-25 15:18:55 PM, message: MongoDB connected.
+2024-06-25T09:49:41.332Z [INFO]: IND_current_time: 2024-06-25 15:19:41 PM, message: MongoDB connected.
+2024-06-25T09:49:56.174Z [INFO]: IND_current_time: 2024-06-25 15:19:56 PM, message: MongoDB connected.
+2024-06-25T09:50:45.318Z [INFO]: IND_current_time: 2024-06-25 15:20:45 PM, message: MongoDB connected.
+2024-06-25T09:50:49.400Z [INFO]: IND_current_time: 2024-06-25 15:20:49 PM, message: MongoDB connected.
+2024-06-25T09:50:54.507Z [INFO]: IND_current_time: 2024-06-25 15:20:54 PM, message: MongoDB connected.
+2024-06-25T09:50:57.518Z [INFO]: IND_current_time: 2024-06-25 15:20:57 PM, message: MongoDB connected.
+2024-06-25T09:50:57.935Z [INFO]: IND_current_time: 2024-06-25 15:20:57 PM, message: MongoDB connected.
+2024-06-25T09:51:15.709Z [INFO]: IND_current_time: 2024-06-25 15:21:15 PM, message: MongoDB connected.
+2024-06-25T09:51:16.878Z [INFO]: IND_current_time: 2024-06-25 15:21:16 PM, message: MongoDB connected.
+2024-06-25T09:51:17.077Z [INFO]: IND_current_time: 2024-06-25 15:21:17 PM, message: MongoDB connected.
+2024-06-25T09:51:17.245Z [INFO]: IND_current_time: 2024-06-25 15:21:17 PM, message: MongoDB connected.
+2024-06-25T09:51:24.560Z [INFO]: IND_current_time: 2024-06-25 15:21:24 PM, message: MongoDB connected.
+2024-06-25T09:51:24.585Z [ERROR]: IND_current_time: 2024-06-25 15:21:24 PM, message: Main catch error: {} message:Could not find Chrome (ver. 119.0.6045.105). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: /root/.cache/puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+2024-06-25T09:51:27.791Z [INFO]: IND_current_time: 2024-06-25 15:21:27 PM, message: MongoDB connected.
+2024-06-25T09:51:30.414Z [INFO]: IND_current_time: 2024-06-25 15:21:30 PM, message: MongoDB connected.
+2024-06-25T09:51:35.346Z [INFO]: IND_current_time: 2024-06-25 15:21:35 PM, message: MongoDB connected.
+2024-06-25T09:51:42.575Z [INFO]: IND_current_time: 2024-06-25 15:21:42 PM, message: MongoDB connected.
+2024-06-25T09:51:42.767Z [INFO]: IND_current_time: 2024-06-25 15:21:42 PM, message: MongoDB connected.
+2024-06-25T09:51:49.940Z [INFO]: IND_current_time: 2024-06-25 15:21:49 PM, message: MongoDB connected.
+2024-06-25T10:02:26.975Z [INFO]: IND_current_time: 2024-06-25 15:32:26 PM, message: MongoDB connected.
+2024-06-25T10:02:32.488Z [INFO]: IND_current_time: 2024-06-25 15:32:32 PM, message: MongoDB connected.
+2024-06-25T10:03:53.273Z [INFO]: IND_current_time: 2024-06-25 15:33:53 PM, message: MongoDB connected.
+2024-06-25T10:03:55.099Z [INFO]: IND_current_time: 2024-06-25 15:33:55 PM, message: MongoDB connected.
+2024-06-25T10:03:59.395Z [INFO]: IND_current_time: 2024-06-25 15:33:59 PM, message: MongoDB connected.
+2024-06-25T10:04:38.845Z [INFO]: IND_current_time: 2024-06-25 15:34:38 PM, message: MongoDB connected.
+2024-06-25T10:04:54.101Z [INFO]: IND_current_time: 2024-06-25 15:34:54 PM, message: MongoDB connected.
+2024-06-25T10:05:04.134Z [INFO]: IND_current_time: 2024-06-25 15:35:04 PM, message: MongoDB connected.
+2024-06-25T10:05:04.483Z [INFO]: IND_current_time: 2024-06-25 15:35:04 PM, message: MongoDB connected.
+2024-06-25T10:05:05.135Z [INFO]: IND_current_time: 2024-06-25 15:35:05 PM, message: MongoDB connected.
+2024-06-25T10:07:31.422Z [INFO]: IND_current_time: 2024-06-25 15:37:31 PM, message: MongoDB connected.
+2024-06-25T10:07:35.820Z [INFO]: IND_current_time: 2024-06-25 15:37:35 PM, message: MongoDB connected.
+2024-06-25T10:12:27.986Z [INFO]: IND_current_time: 2024-06-25 15:42:27 PM, message: MongoDB connected.
+2024-06-25T10:12:31.051Z [INFO]: IND_current_time: 2024-06-25 15:42:31 PM, message: MongoDB connected.
+2024-06-25T11:01:27.445Z [INFO]: IND_current_time: 2024-06-25 16:31:27 PM, message: MongoDB connected.
+2024-06-25T11:01:37.717Z [INFO]: IND_current_time: 2024-06-25 16:31:37 PM, message: MongoDB connected.
+2024-06-25T11:01:39.135Z [INFO]: IND_current_time: 2024-06-25 16:31:39 PM, message: MongoDB connected.
+2024-06-25T11:01:46.788Z [INFO]: IND_current_time: 2024-06-25 16:31:46 PM, message: MongoDB connected.
+2024-06-25T11:01:59.635Z [INFO]: IND_current_time: 2024-06-25 16:31:59 PM, message: MongoDB connected.
+2024-06-25T11:02:12.499Z [INFO]: IND_current_time: 2024-06-25 16:32:12 PM, message: MongoDB connected.
+2024-06-25T11:02:52.120Z [INFO]: IND_current_time: 2024-06-25 16:32:52 PM, message: MongoDB connected.
+2024-06-25T11:03:29.986Z [INFO]: IND_current_time: 2024-06-25 16:33:29 PM, message: MongoDB connected.
+2024-06-25T11:04:51.970Z [INFO]: IND_current_time: 2024-06-25 16:34:51 PM, message: MongoDB connected.
+2024-06-25T11:13:17.364Z [INFO]: IND_current_time: 2024-06-25 16:43:17 PM, message: MongoDB connected.
+2024-06-25T11:59:51.673Z [INFO]: IND_current_time: 2024-06-25 17:29:51 PM, message: MongoDB connected.
+2024-06-25T11:59:53.741Z [INFO]: IND_current_time: 2024-06-25 17:29:53 PM, message: MongoDB connected.
+2024-06-25T12:02:39.247Z [INFO]: IND_current_time: 2024-06-25 17:32:39 PM, message: MongoDB connected.
+2024-06-25T12:03:24.496Z [INFO]: IND_current_time: 2024-06-25 17:33:24 PM, message: MongoDB connected.
+2024-06-25T12:03:26.298Z [INFO]: IND_current_time: 2024-06-25 17:33:26 PM, message: MongoDB connected.
+2024-06-25T12:04:32.431Z [INFO]: IND_current_time: 2024-06-25 17:34:32 PM, message: MongoDB connected.
+2024-06-25T12:04:54.143Z [INFO]: IND_current_time: 2024-06-25 17:34:54 PM, message: MongoDB connected.
+2024-06-25T12:04:58.374Z [INFO]: IND_current_time: 2024-06-25 17:34:58 PM, message: MongoDB connected.
+2024-06-25T12:04:58.896Z [INFO]: IND_current_time: 2024-06-25 17:34:58 PM, message: MongoDB connected.
+2024-06-25T12:05:01.615Z [INFO]: IND_current_time: 2024-06-25 17:35:01 PM, message: MongoDB connected.
+2024-06-25T12:05:02.090Z [INFO]: IND_current_time: 2024-06-25 17:35:02 PM, message: MongoDB connected.
+2024-06-25T12:05:40.895Z [INFO]: IND_current_time: 2024-06-25 17:35:40 PM, message: MongoDB connected.
+2024-06-25T12:06:13.763Z [INFO]: IND_current_time: 2024-06-25 17:36:13 PM, message: MongoDB connected.
+2024-06-25T12:06:28.833Z [INFO]: IND_current_time: 2024-06-25 17:36:28 PM, message: MongoDB connected.
+2024-06-25T12:06:31.647Z [INFO]: IND_current_time: 2024-06-25 17:36:31 PM, message: MongoDB connected.
+2024-06-25T12:06:43.393Z [INFO]: IND_current_time: 2024-06-25 17:36:43 PM, message: MongoDB connected.
+2024-06-25T12:07:10.774Z [INFO]: IND_current_time: 2024-06-25 17:37:10 PM, message: MongoDB connected.
+2024-06-25T12:07:11.870Z [INFO]: IND_current_time: 2024-06-25 17:37:11 PM, message: MongoDB connected.
+2024-06-25T12:07:16.453Z [INFO]: IND_current_time: 2024-06-25 17:37:16 PM, message: MongoDB connected.
+2024-06-25T12:07:16.694Z [INFO]: IND_current_time: 2024-06-25 17:37:16 PM, message: MongoDB connected.
+2024-06-25T12:07:16.967Z [INFO]: IND_current_time: 2024-06-25 17:37:16 PM, message: MongoDB connected.
+2024-06-25T12:07:17.258Z [INFO]: IND_current_time: 2024-06-25 17:37:17 PM, message: MongoDB connected.
+2024-06-25T12:07:26.238Z [INFO]: IND_current_time: 2024-06-25 17:37:26 PM, message: MongoDB connected.
+2024-06-25T12:07:26.393Z [INFO]: IND_current_time: 2024-06-25 17:37:26 PM, message: MongoDB connected.
+2024-06-25T12:07:26.628Z [INFO]: IND_current_time: 2024-06-25 17:37:26 PM, message: MongoDB connected.
+2024-06-25T12:07:26.758Z [INFO]: IND_current_time: 2024-06-25 17:37:26 PM, message: MongoDB connected.
+2024-06-25T12:07:27.006Z [INFO]: IND_current_time: 2024-06-25 17:37:27 PM, message: MongoDB connected.
+2024-06-25T12:07:27.074Z [INFO]: IND_current_time: 2024-06-25 17:37:27 PM, message: MongoDB connected.
+2024-06-25T12:07:29.010Z [INFO]: IND_current_time: 2024-06-25 17:37:29 PM, message: MongoDB connected.
+2024-06-25T12:07:31.906Z [INFO]: IND_current_time: 2024-06-25 17:37:31 PM, message: MongoDB connected.
+2024-06-25T12:07:49.466Z [INFO]: IND_current_time: 2024-06-25 17:37:49 PM, message: MongoDB connected.
+2024-06-25T12:07:56.982Z [INFO]: IND_current_time: 2024-06-25 17:37:56 PM, message: MongoDB connected.
+2024-06-25T12:07:58.756Z [INFO]: IND_current_time: 2024-06-25 17:37:58 PM, message: MongoDB connected.
+2024-06-25T12:08:09.720Z [INFO]: IND_current_time: 2024-06-25 17:38:09 PM, message: MongoDB connected.
+2024-06-25T12:08:14.185Z [INFO]: IND_current_time: 2024-06-25 17:38:14 PM, message: MongoDB connected.
+2024-06-25T12:08:30.188Z [INFO]: IND_current_time: 2024-06-25 17:38:30 PM, message: MongoDB connected.
+2024-06-25T12:09:10.946Z [INFO]: IND_current_time: 2024-06-25 17:39:10 PM, message: MongoDB connected.
+2024-06-25T12:09:12.078Z [INFO]: IND_current_time: 2024-06-25 17:39:12 PM, message: MongoDB connected.
+2024-06-25T12:09:17.521Z [INFO]: IND_current_time: 2024-06-25 17:39:17 PM, message: MongoDB connected.
+2024-06-25T12:14:32.079Z [INFO]: IND_current_time: 2024-06-25 17:44:32 PM, message: MongoDB connected.
+2024-06-25T12:14:32.441Z [INFO]: IND_current_time: 2024-06-25 17:44:32 PM, message: MongoDB connected.
+2024-06-25T12:14:33.140Z [INFO]: IND_current_time: 2024-06-25 17:44:33 PM, message: MongoDB connected.
+2024-06-25T12:15:10.547Z [INFO]: IND_current_time: 2024-06-25 17:45:10 PM, message: MongoDB connected.
+2024-06-25T12:15:12.694Z [INFO]: IND_current_time: 2024-06-25 17:45:12 PM, message: MongoDB connected.
+2024-06-25T12:15:50.655Z [INFO]: IND_current_time: 2024-06-25 17:45:50 PM, message: MongoDB connected.
+2024-06-25T12:15:51.223Z [INFO]: IND_current_time: 2024-06-25 17:45:51 PM, message: MongoDB connected.
+2024-06-25T12:16:12.024Z [INFO]: IND_current_time: 2024-06-25 17:46:12 PM, message: MongoDB connected.
+2024-06-25T12:16:24.403Z [INFO]: IND_current_time: 2024-06-25 17:46:24 PM, message: MongoDB connected.
+2024-06-25T12:16:26.005Z [INFO]: IND_current_time: 2024-06-25 17:46:26 PM, message: MongoDB connected.
+2024-06-25T12:16:31.939Z [INFO]: IND_current_time: 2024-06-25 17:46:31 PM, message: MongoDB connected.
+2024-06-25T12:16:35.027Z [INFO]: IND_current_time: 2024-06-25 17:46:35 PM, message: MongoDB connected.
+2024-06-25T12:16:42.711Z [INFO]: IND_current_time: 2024-06-25 17:46:42 PM, message: MongoDB connected.
+2024-06-25T12:16:47.120Z [INFO]: IND_current_time: 2024-06-25 17:46:47 PM, message: MongoDB connected.
+2024-06-25T12:16:52.112Z [INFO]: IND_current_time: 2024-06-25 17:46:52 PM, message: MongoDB connected.
+2024-06-25T12:16:58.467Z [INFO]: IND_current_time: 2024-06-25 17:46:58 PM, message: MongoDB connected.
+2024-06-25T12:20:43.585Z [INFO]: IND_current_time: 2024-06-25 17:50:43 PM, message: MongoDB connected.
+2024-06-25T12:20:55.297Z [INFO]: IND_current_time: 2024-06-25 17:50:55 PM, message: MongoDB connected.
+2024-06-25T12:20:58.975Z [INFO]: IND_current_time: 2024-06-25 17:50:58 PM, message: MongoDB connected.
+2024-06-25T12:21:11.680Z [INFO]: IND_current_time: 2024-06-25 17:51:11 PM, message: MongoDB connected.
+2024-06-25T12:21:23.012Z [INFO]: IND_current_time: 2024-06-25 17:51:23 PM, message: MongoDB connected.
+2024-06-25T12:23:36.868Z [INFO]: IND_current_time: 2024-06-25 17:53:36 PM, message: MongoDB connected.
+2024-06-25T12:31:00.268Z [INFO]: IND_current_time: 2024-06-25 18:01:00 PM, message: MongoDB connected.
+2024-06-25T12:31:07.068Z [INFO]: IND_current_time: 2024-06-25 18:01:07 PM, message: MongoDB connected.
+2024-06-25T12:31:39.233Z [INFO]: IND_current_time: 2024-06-25 18:01:39 PM, message: MongoDB connected.
+2024-06-25T12:31:39.317Z [ERROR]: IND_current_time: 2024-06-25 18:01:39 PM, message: Main catch error: {} message:Could not find Chrome (ver. 119.0.6045.105). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: /root/.cache/puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+2024-06-25T12:31:49.162Z [INFO]: IND_current_time: 2024-06-25 18:01:49 PM, message: MongoDB connected.
+2024-06-25T12:32:04.821Z [INFO]: IND_current_time: 2024-06-25 18:02:04 PM, message: MongoDB connected.
+2024-06-25T12:32:47.230Z [INFO]: IND_current_time: 2024-06-25 18:02:47 PM, message: MongoDB connected.
+2024-06-25T12:32:50.213Z [INFO]: IND_current_time: 2024-06-25 18:02:50 PM, message: MongoDB connected.
+2024-06-25T12:32:53.609Z [INFO]: IND_current_time: 2024-06-25 18:02:53 PM, message: MongoDB connected.
+2024-06-25T12:32:53.887Z [INFO]: IND_current_time: 2024-06-25 18:02:53 PM, message: MongoDB connected.
+2024-06-25T12:33:58.999Z [INFO]: IND_current_time: 2024-06-25 18:03:58 PM, message: MongoDB connected.
+2024-06-25T12:37:13.350Z [INFO]: IND_current_time: 2024-06-25 18:07:13 PM, message: MongoDB connected.
+2024-06-25T12:37:23.470Z [INFO]: IND_current_time: 2024-06-25 18:07:23 PM, message: MongoDB connected.
+2024-06-25T12:37:27.501Z [INFO]: IND_current_time: 2024-06-25 18:07:27 PM, message: MongoDB connected.
+2024-06-25T12:37:32.534Z [INFO]: IND_current_time: 2024-06-25 18:07:32 PM, message: MongoDB connected.
+2024-06-25T12:37:34.493Z [INFO]: IND_current_time: 2024-06-25 18:07:34 PM, message: MongoDB connected.
+2024-06-25T12:38:20.552Z [INFO]: IND_current_time: 2024-06-25 18:08:20 PM, message: MongoDB connected.
+2024-06-25T12:38:27.538Z [INFO]: IND_current_time: 2024-06-25 18:08:27 PM, message: MongoDB connected.
+2024-06-25T12:38:28.648Z [INFO]: IND_current_time: 2024-06-25 18:08:28 PM, message: MongoDB connected.
+2024-06-25T12:38:40.260Z [INFO]: IND_current_time: 2024-06-25 18:08:40 PM, message: MongoDB connected.
+2024-06-25T12:38:40.330Z [ERROR]: IND_current_time: 2024-06-25 18:08:40 PM, message: Main catch error: {} message:Could not find Chrome (ver. 119.0.6045.105). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: /root/.cache/puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+2024-06-25T12:38:41.830Z [INFO]: IND_current_time: 2024-06-25 18:08:41 PM, message: MongoDB connected.
+2024-06-25T12:43:09.896Z [INFO]: IND_current_time: 2024-06-25 18:13:09 PM, message: MongoDB connected.
+2024-06-25T12:47:19.845Z [INFO]: IND_current_time: 2024-06-25 18:17:19 PM, message: MongoDB connected.
+2024-06-25T12:47:22.226Z [INFO]: IND_current_time: 2024-06-25 18:17:22 PM, message: MongoDB connected.
+2024-06-25T12:47:22.590Z [INFO]: IND_current_time: 2024-06-25 18:17:22 PM, message: MongoDB connected.
+2024-06-25T12:47:40.393Z [INFO]: IND_current_time: 2024-06-25 18:17:40 PM, message: MongoDB connected.
+2024-06-25T12:47:41.348Z [INFO]: IND_current_time: 2024-06-25 18:17:41 PM, message: MongoDB connected.
+2024-06-25T12:48:02.358Z [INFO]: IND_current_time: 2024-06-25 18:18:02 PM, message: MongoDB connected.
+2024-06-25T12:48:02.534Z [INFO]: IND_current_time: 2024-06-25 18:18:02 PM, message: MongoDB connected.
+2024-06-25T12:48:16.206Z [INFO]: IND_current_time: 2024-06-25 18:18:16 PM, message: MongoDB connected.
+2024-06-25T12:48:16.897Z [INFO]: IND_current_time: 2024-06-25 18:18:16 PM, message: MongoDB connected.
+2024-06-25T12:48:17.073Z [INFO]: IND_current_time: 2024-06-25 18:18:17 PM, message: MongoDB connected.
+2024-06-25T12:48:17.189Z [INFO]: IND_current_time: 2024-06-25 18:18:17 PM, message: MongoDB connected.
+2024-06-25T12:52:12.520Z [INFO]: IND_current_time: 2024-06-25 18:22:12 PM, message: MongoDB connected.
+2024-06-25T12:53:30.683Z [INFO]: IND_current_time: 2024-06-25 18:23:30 PM, message: MongoDB connected.
+2024-06-25T12:53:36.859Z [INFO]: IND_current_time: 2024-06-25 18:23:36 PM, message: MongoDB connected.
+2024-06-25T12:53:36.906Z [ERROR]: IND_current_time: 2024-06-25 18:23:36 PM, message: Main catch error: {} message:Could not find Chrome (ver. 119.0.6045.105). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: /root/.cache/puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+2024-06-25T12:59:39.590Z [INFO]: IND_current_time: 2024-06-25 18:29:39 PM, message: MongoDB connected.
+2024-06-25T12:59:40.524Z [INFO]: IND_current_time: 2024-06-25 18:29:40 PM, message: MongoDB connected.
+2024-06-25T12:59:40.812Z [INFO]: IND_current_time: 2024-06-25 18:29:40 PM, message: MongoDB connected.
+2024-06-25T12:59:57.373Z [INFO]: IND_current_time: 2024-06-25 18:29:57 PM, message: MongoDB connected.
+2024-06-25T12:59:57.577Z [INFO]: IND_current_time: 2024-06-25 18:29:57 PM, message: MongoDB connected.
+2024-06-25T13:00:04.286Z [INFO]: IND_current_time: 2024-06-25 18:30:04 PM, message: MongoDB connected.
+2024-06-25T13:00:32.260Z [INFO]: IND_current_time: 2024-06-25 18:30:32 PM, message: MongoDB connected.
+2024-06-25T13:00:45.710Z [INFO]: IND_current_time: 2024-06-25 18:30:45 PM, message: MongoDB connected.
+2024-06-25T13:00:57.614Z [INFO]: IND_current_time: 2024-06-25 18:30:57 PM, message: MongoDB connected.
+2024-06-25T13:00:57.766Z [ERROR]: IND_current_time: 2024-06-25 18:30:57 PM, message: Main catch error: {} message:Could not find Chrome (ver. 119.0.6045.105). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: /root/.cache/puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+2024-06-25T13:11:53.462Z [INFO]: IND_current_time: 2024-06-25 18:41:53 PM, message: MongoDB connected.
+2024-06-25T13:11:58.757Z [INFO]: IND_current_time: 2024-06-25 18:41:58 PM, message: MongoDB connected.
+2024-06-25T13:12:07.962Z [INFO]: IND_current_time: 2024-06-25 18:42:07 PM, message: MongoDB connected.
+2024-06-25T13:12:07.991Z [ERROR]: IND_current_time: 2024-06-25 18:42:07 PM, message: Main catch error: {} message:Could not find Chrome (ver. 119.0.6045.105). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: /root/.cache/puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+2024-06-25T13:16:03.798Z [INFO]: IND_current_time: 2024-06-25 18:46:03 PM, message: MongoDB connected.
+2024-06-25T13:16:06.017Z [INFO]: IND_current_time: 2024-06-25 18:46:06 PM, message: MongoDB connected.
+2024-06-25T13:16:30.156Z [INFO]: IND_current_time: 2024-06-25 18:46:30 PM, message: MongoDB connected.
+2024-06-25T13:16:39.141Z [INFO]: IND_current_time: 2024-06-25 18:46:39 PM, message: MongoDB connected.
+2024-06-25T13:16:40.675Z [INFO]: IND_current_time: 2024-06-25 18:46:40 PM, message: PDF generated successfully.
+2024-06-25T13:16:40.851Z [INFO]: IND_current_time: 2024-06-25 18:46:40 PM, message: MongoDB connected.
+2024-06-25T13:17:27.576Z [INFO]: IND_current_time: 2024-06-25 18:47:27 PM, message: MongoDB connected.
+2024-06-25T13:17:52.699Z [INFO]: IND_current_time: 2024-06-25 18:47:52 PM, message: MongoDB connected.
+2024-06-25T13:18:02.440Z [INFO]: IND_current_time: 2024-06-25 18:48:02 PM, message: MongoDB connected.
+2024-06-25T13:18:03.566Z [INFO]: IND_current_time: 2024-06-25 18:48:03 PM, message: PDF generated successfully.
+2024-06-25T13:18:03.738Z [INFO]: IND_current_time: 2024-06-25 18:48:03 PM, message: MongoDB connected.
+2024-06-25T13:18:22.102Z [INFO]: IND_current_time: 2024-06-25 18:48:22 PM, message: MongoDB connected.
+2024-06-25T13:18:55.247Z [INFO]: IND_current_time: 2024-06-25 18:48:55 PM, message: MongoDB connected.
+2024-06-25T13:19:00.679Z [INFO]: IND_current_time: 2024-06-25 18:49:00 PM, message: MongoDB connected.
+2024-06-25T13:19:19.823Z [INFO]: IND_current_time: 2024-06-25 18:49:19 PM, message: MongoDB connected.
+2024-06-25T13:19:51.304Z [INFO]: IND_current_time: 2024-06-25 18:49:51 PM, message: MongoDB connected.
+2024-06-25T13:19:52.431Z [INFO]: IND_current_time: 2024-06-25 18:49:52 PM, message: PDF generated successfully.
+2024-06-25T13:19:52.597Z [INFO]: IND_current_time: 2024-06-25 18:49:52 PM, message: MongoDB connected.
+2024-06-25T13:20:09.096Z [INFO]: IND_current_time: 2024-06-25 18:50:09 PM, message: MongoDB connected.
+2024-06-25T13:20:09.287Z [INFO]: IND_current_time: 2024-06-25 18:50:09 PM, message: MongoDB connected.
+2024-06-25T13:46:36.750Z [INFO]: IND_current_time: 2024-06-25 19:16:36 PM, message: MongoDB connected.
+2024-06-25T13:46:38.538Z [INFO]: IND_current_time: 2024-06-25 19:16:38 PM, message: MongoDB connected.
+2024-06-25T14:01:02.979Z [INFO]: IND_current_time: 2024-06-25 19:31:02 PM, message: MongoDB connected.
+2024-06-25T14:01:06.111Z [INFO]: IND_current_time: 2024-06-25 19:31:06 PM, message: MongoDB connected.
+2024-06-25T14:01:09.122Z [INFO]: IND_current_time: 2024-06-25 19:31:09 PM, message: MongoDB connected.
+2024-06-25T14:01:09.200Z [INFO]: IND_current_time: 2024-06-25 19:31:09 PM, message: MongoDB connected.
+2024-06-25T14:01:09.296Z [INFO]: IND_current_time: 2024-06-25 19:31:09 PM, message: MongoDB connected.
+2024-06-25T14:01:09.372Z [INFO]: IND_current_time: 2024-06-25 19:31:09 PM, message: MongoDB connected.
+2024-06-25T14:01:09.471Z [INFO]: IND_current_time: 2024-06-25 19:31:09 PM, message: MongoDB connected.
+2024-06-25T14:02:23.045Z [INFO]: IND_current_time: 2024-06-25 19:32:23 PM, message: MongoDB connected.
+2024-06-25T14:02:24.654Z [INFO]: IND_current_time: 2024-06-25 19:32:24 PM, message: MongoDB connected.
+2024-06-25T14:02:45.831Z [INFO]: IND_current_time: 2024-06-25 19:32:45 PM, message: MongoDB connected.
+2024-06-25T14:03:00.661Z [INFO]: IND_current_time: 2024-06-25 19:33:00 PM, message: MongoDB connected.
+2024-06-25T14:03:00.754Z [INFO]: IND_current_time: 2024-06-25 19:33:00 PM, message: MongoDB connected.
+2024-06-25T14:03:00.850Z [INFO]: IND_current_time: 2024-06-25 19:33:00 PM, message: MongoDB connected.
+2024-06-25T14:03:07.403Z [INFO]: IND_current_time: 2024-06-25 19:33:07 PM, message: MongoDB connected.
+2024-06-25T14:03:07.471Z [INFO]: IND_current_time: 2024-06-25 19:33:07 PM, message: MongoDB connected.
+2024-06-25T14:03:07.515Z [INFO]: IND_current_time: 2024-06-25 19:33:07 PM, message: MongoDB connected.
+2024-06-25T14:03:07.602Z [INFO]: IND_current_time: 2024-06-25 19:33:07 PM, message: MongoDB connected.
+2024-06-25T14:03:10.286Z [INFO]: IND_current_time: 2024-06-25 19:33:10 PM, message: MongoDB connected.

@@ -1,0 +1,100 @@
+.yellow_flag {
+    background: darkorange;
+    width: 7px;
+    height: 100%;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.green_flag {
+    background: green;
+    width: 100%;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    height: 100%;
+}
+
+.red_flag {
+    background: red;
+    width: 100%;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    height: 100%;
+}
+
+.pdf_list div#cell-1-undefined {
+    padding: 0 !important;
+    max-width: 7px !important;
+    min-width: 7px;
+}
+
+.pdf_list .rdt_TableHeadRow [data-column-id="1"] {
+    padding: 0 !important;
+    max-width: 7px !important;
+    min-width: 7px;
+}
+
+.not_approve {
+    padding: 7px 10px;
+    border: none;
+    color: darkorange;
+    background: beige;
+
+}
+
+.request_change {
+    padding: 7px 10px;
+    border: none;
+    background: #ffe9e9;
+    color: rgb(212, 7, 7);
+}
+
+.approve {
+    padding: 7px 10px;
+    border: none;
+    color: rgb(3, 114, 3);
+    background: #def2d0;
+}
+
+.released {
+    padding: 7px 10px;
+    border: none;
+    color: rgb(20, 20, 175);
+    background: rgb(218 218 233);
+}
+
+.approve_btn {
+    padding: 5px 7px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: darkorange;
+    background: beige;
+
+}
+
+
+.approve_btn svg {
+    font-size: 17px;
+}
+
+.mail_icon .MuiButton-endIcon {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+
+}
+
+.edit svg {
+    color: #049104;
+    background: #def2d0;
+    padding: 5px 7px;
+    margin: 5px;
+    font-size: 32px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.action_icon {
+    display: flex;
+    align-items: center;
+    grid-gap: 4px;
+}

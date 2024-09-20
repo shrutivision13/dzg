@@ -1,0 +1,16 @@
+.verification {
+    text-align: center;
+}
+
+.verification_grid div {
+    justify-content: center;
+}
+
+h4 {
+    padding-bottom: 16px;
+    font-size: 20px;
+}
+
+.otp_form {
+    padding: 18px;
+}

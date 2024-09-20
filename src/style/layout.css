@@ -1,0 +1,38 @@
+.layuout_drawer {
+    min-height: 64px;
+}
+
+body {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.bg_image {
+    height: calc(100vh - 64px);
+    width: 100%;
+    background: url('../assets/images/Dashboard.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.dashboard_container {
+    padding: 0 !important;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+
+}
+
+
+
+h2.dashboard_title {
+
+
+    color: aliceblue;
+
+    font-size: 35px;
+    position: absolute;
+    left: 67px;
+    top: 147px;
+    text-transform: uppercase;
+    text-shadow: 0 13.36px 8.896px #2c482e, 0 -2px 1px blue;
+}

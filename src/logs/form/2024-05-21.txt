@@ -1,0 +1,4 @@
+2024-05-21T04:06:49.295Z [INFO]: IND_current_time: 2024-05-21 09:36:49 AM, message: MongoDB connected.
+2024-05-21T04:06:52.894Z [INFO]: IND_current_time: 2024-05-21 09:36:52 AM, message: MongoDB connected.
+2024-05-21T04:23:38.680Z [INFO]: IND_current_time: 2024-05-21 09:53:38 AM, message: MongoDB connected.
+2024-05-21T04:23:45.492Z [INFO]: IND_current_time: 2024-05-21 09:53:45 AM, message: MongoDB connected.

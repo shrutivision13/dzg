@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Example</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 90%;
+            margin: 0 auto;
+            border: 1px solid #232121;
+        }
+
+        th,
+        td {
+            border: 1px solid #232121;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            font-weight: bold;
+        }
+
+        table,
+        tr,
+        td {
+            page-break-inside: avoid;
+        }
+
+        .center {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <table class="page-break">
+        <tbody>
+            <tr>
+                <th class="center" style="width: 16%;"><img src="<%= image %>" height="50px" alt=""> </th>
+                <td class="center">
+                    <h3>Sollmerkmalsliste</h3>
+                </td>
+                <th class="center" style="width: 12%;"><img src="<%= image %>" height="50px" alt=""> </th>
+            </tr>
+
+        </tbody>
+    </table>
+    <table>
+        <h3 style="margin-left: 5%; margin-top: 4%;">1.Kunde</h3>
+        <tbody>
+            <tr>
+                <th rowspan="5">Vertriebsgebiet</th>
+            </tr>
+            <tr>
+                <% if(updatedForm.customer.salesArea=="north" ){ %>
+                    <td>&#9747;</td>
+                    <% } else{ %>
+                        <td></td>
+                        <% } %>
+                            <td>Nord</td>
+                            <% if(updatedForm.customer.salesArea=="west" ){ %>
+                                <td>&#9747;</td>
+                                <% } else{ %>
+                                    <td></td>
+                                    <% } %>
+                                        <td>West</td>
+            </tr>
+            <tr>
+                <% if(updatedForm.customer.salesArea=="east" ){ %>
+                    <td>&#9747;</td>
+                    <% } else{ %>
+                        <td></td>
+                        <% } %>
+                            <td>Ost</td>
+                            <% if(updatedForm.customer.salesArea=="southWest" ){ %>
+                                <td>&#9747;</td>
+                                <% } else{ %>
+                                    <td></td>
+                                    <% } %>
+                                        <td>Südwest</td>
+            </tr>
+            <tr>
+                <% if(updatedForm.customer.salesArea=="southEast" ){ %>
+                    <td>&#9747;</td>
+                    <% } else{ %>
+                        <td></td>
+                        <% } %>
+                            <td>Südost</td>
+                            <% if(updatedForm.customer.salesArea=="industry" ){ %>
+                                <td>&#9747;</td>
+                                <% } else{ %>
+                                    <td></td>
+                                    <% } %>
+                                        <td>Industrie</td>
+            </tr>
+            <tr>
+                <% if(updatedForm.customer.salesArea=="export" ){ %>
+                    <td>&#9747;</td>
+                    <% } else{ %>
+                        <td></td>
+                        <% } %>
+                            <td>Export</td>
+                            <% if(updatedForm.customer.salesArea=="other" ){ %>
+                                <td>&#9747;</td>
+                                <% } else{ %>
+                                    <td></td>
+                                    <% } %>
+                                        <td>Andere</td>
+            </tr>
+            <tr>
+                <th>Erstellt von:</th>
+                <td colspan="4">
+                    <%= updatedForm.customer.createdBy %>
+                </td>
+            </tr>
+            <tr>
+                <th>Kunde</th>
+                <td colspan="6">
+                    <%= updatedForm.customer.customerName %>
+                </td>
+            </tr>
+            <tr>
+                <th>Bestellnummer des Kunden</th>
+                <td colspan="6">
+                    <%= updatedForm.customer.customerOrderNumber %>
+                </td>
+            </tr>
+            <tr>
+                <th>Ansprechpartner</th>
+                <td colspan="6">
+                    <%= updatedForm.customer.contactPerson %>
+                </td>
+            </tr>
+            <tr>
+                <th>Angebot Nr. / Auftrag Nr.</th>
+                <td colspan="6">
+                    <%= updatedForm.customer.orderConfirmationAndPosition %>
+                </td>
+            </tr>
+            <tr>
+                <th>Datum</th>
+                <td colspan="6">
+                    <%= updatedForm.customer.date %>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <table>
+        <h3 style="margin-left: 5%; margin-top: 4%;">2.KundeKonfiguration </h3>
+        <tbody>
+            <tr>
+                <th>Typ</th>
+                <td style="width: 25%;">
+                    <%= updatedForm.configuration.type %>
+                </td>
+                <th>Anzahl</th>
+                <td style="width: 20%;">
+                    <%= updatedForm.configuration.number %>
+                </td>
+                <th>Material-Nr. des Kunden</th>
+                <td style="width: 30%;">
+                    <%= updatedForm.configuration.materialNoCustomer %>
+                </td>
+            </tr>
+            <tr>
+                <th>PlugIn im Zähler gesteckt liefern</th>
+                <td style="width: 25%;">
+                    <%= updatedForm.configuration.pluginInserted %>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h3 style="margin-left: 5%; margin-top: 4%; display: inline;">5.
+        Bemerkungen </h3><span>(Kunde / Vertrieb):</span>
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <%= updatedForm.remarks %>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="<%= updatedForm.remarkImage %>" alt="No data">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h3 style="margin-left: 5%; margin-top: 4%;">6.
+        Kundenvorschrift
+    </h3>
+    <h3 style="margin-left: 5%; margin-top: 4%;">
+        Elektronischer Lieferschein
+    </h3>
+    <table>
+        <tbody>
+            <tr>
+                <% if(updatedForm.customerSpecification.deliveryNoteValue=="Yes" ){ %>
+                    <td>&#9747;</td>
+                    <% } else{ %>
+                        <td></td>
+                        <% } %>
+                            <th>Ja</th>
+                            <% if(updatedForm.customerSpecification.type=="V 2.0" ){ %>
+                                <td>&#9747;</td>
+                                <% } else{ %>
+                                    <td></td>
+                                    <% } %>
+                                        <th>V 2.0</th>
+                                        <% if(updatedForm.customerSpecification.type=="V 2.1" ){ %>
+                                            <td>&#9747;</td>
+                                            <% } else{ %>
+                                                <td></td>
+                                                <% } %>
+                                                    <th>V 2.1</th>
+            </tr>
+            <span style="margin-left: 75%;">EmailId: <%= updatedForm.customerSpecification.email %>
+            </span>
+            <tr>
+                <% if(updatedForm.customerSpecification.deliveryNoteValue=="No" ){ %>
+                    <td>&#9747;</td>
+                    <% } else{ %>
+                        <td></td>
+                        <% } %>
+                            <th colspan="5">Nein</th>
+            </tr>
+        </tbody>
+    </table>
+    <h3 style="margin-left: 5%; margin-top: 4%;">
+        Elektronischer Rechnung
+    </h3>
+    <table>
+        <tbody>
+            <tr>
+                <% if(updatedForm.customerSpecification.electronicInvoiceValue=="Yes" ){ %>
+                    <td>&#9747;</td>
+                    <% } else{ %>
+                        <td></td>
+                        <% } %>
+                            <th>Ja</th>
+                            <td>Email: <%= updatedForm.customerSpecification.electronicInvoiceEmail %>
+                            </td>
+            </tr>
+            <tr>
+                <% if(updatedForm.customerSpecification.electronicInvoiceValue=="No" ){ %>
+                    <td>&#9747;</td>
+                    <% } else{ %>
+                        <td></td>
+                        <% } %>
+                            <th colspan="2">Nein</th>
+            </tr>
+        </tbody>
+    </table>
+    <table>
+        <tbody>
+            <tr>
+                <th>Besonderheiten</th>
+                <td>
+                    <%= updatedForm.customerSpecification.particularities %>
+                </td>
+            </tr>
+            <tr>
+                <th>Verpackung</th>
+                <td>
+                    <%= updatedForm.customerSpecification.packaging %>
+                </td>
+            </tr>
+            <tr>
+                <th>Besonderheiten Verpackung</th>
+                <td>
+                    <%= updatedForm.customerSpecification.specialFeaturesPackaging %>
+                </td>
+            </tr>
+            <tr>
+                <th>Bereitstellung Klemmendeckel</th>
+                <td>
+                    <%= updatedForm.customerSpecification.provisionOfTerminalCover %>
+                </td>
+            </tr>
+            <tr>
+                <th>Verpackung Klemmendeckel</th>
+                <td>
+                    <%= updatedForm.customerSpecification.packagingTerminalCover %>
+                </td>
+            </tr>
+            <tr>
+                <th>Bereitstellung Moduldeckel</th>
+                <td>
+                    <%= updatedForm.customerSpecification.provisionOfModuleCover %>
+                </td>
+            </tr>
+            <tr>
+                <th>Verpackung Moduldeckel</th>
+                <td>
+                    <%= updatedForm.customerSpecification.packagingModulecover %>
+                </td>
+            </tr>
+            <tr>
+                <th>Klemmenblockschrauben</th>
+                <td>
+                    <%= updatedForm.customerSpecification.terminalBlockScrews %>
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Lieferadresse abweichend von Standardadresse</th>
+                <td>
+                    <%= updatedForm.customerSpecification.deliveryAddressDifferentFromStandardAddress %>, <%=
+                            updatedForm.customerSpecification.deliveryAddress %>
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Anlieferzeiten</th>
+                <td>
+                    <%= updatedForm.customerSpecification.deliveryTimesNote %>, <%=
+                            updatedForm.customerSpecification.deliveryTimes.join(", ") %>
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Hinweise für Anlieferung
+                </th>
+                <td style=" width: 70%;">
+                            <%= updatedForm.customerSpecification.instructionsForDelivery %>
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Transportmittel
+                </th>
+                <td style=" width: 70%;">
+                    <%= updatedForm.customerSpecification.modeOfTransport %>
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Avisierung
+                </th>
+                <td style="width: 70%;">
+                    <%= updatedForm.customerSpecification.notification %>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h3 style="margin-left: 5%; margin-top: 4%;">7.
+        Freigaben
+    </h3>
+    <h3 style="margin-left: 5%; margin-top: 4%;">7.1
+        Freigabe durch Kunde
+    </h3>
+    <% if(updatedForm.isReviewerApproved){ %>
+        <table>
+            <tr>
+                <th>Datum</th>
+                <th>Name</th>
+                <th>Unterschrift</th>
+            </tr>
+            <% for(var i=0; i < updatedForm.releases.releaseByCustomer.length; i++) { %>
+                <tr>
+                    <td>
+                        <%= updatedForm.releases.releaseByCustomer[i].date %>
+                    </td>
+                    <td>
+                        <%= updatedForm.releases.releaseByCustomer[i].name %>
+                    </td>
+                    <td>
+                        Sign by <%= reviewerSign %>
+                    </td>
+                </tr>
+                <% } %>
+        </table>
+        <% } %>
+            <h3 style="margin-left: 5%; margin-top: 4%;">7.2
+                Freigabe durch Vertrieb (Außendienst/Innendienst)
+            </h3>
+            <% if(updatedForm.isWriterApproved){ %>
+                <table>
+                    <tr>
+                        <th>Datum</th>
+                        <th>Name</th>
+                        <th>Unterschrift</th>
+                        <th colspan="2">Freigabe vom Kunden per Mail / per Telefon</th>
+                    </tr>
+                    <% for(var i=0; i < updatedForm.releases.approvalBySales.length; i++) { %>
+                        <tr>
+                            <td>
+                                <%= updatedForm.releases.approvalBySales[i].date %>
+                            </td>
+                            <td>
+                                <%= updatedForm.releases.approvalBySales[i].name %>
+                            </td>
+                            <td>
+                                Sign by <%= writerSign%>
+                            </td>
+                            <% if(updatedForm.releases.approvalBySales[i].approvalFromCustomerViaEmailOrPhone=="Email"
+                                ){ %>
+                                <td>Email</td>
+                                <% } else { %>
+                                    <td>Phone</td>
+                                    <% } %>
+                        </tr>
+                        <% } %>
+                </table>
+                <% } %>
+
+</body>
+
+</html>

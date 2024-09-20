@@ -1,0 +1,167 @@
+.table_title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+
+.rdt_TableRow {
+    /* background-color: #fdfdfd !important; */
+    margin: 5px 0px;
+    border-radius: 6px;
+    border: 1px solid lightgray;
+    text-transform: capitalize;
+
+}
+
+.rdt_TableCell {
+    color: darkslategray;
+}
+
+.rdt_TableCol_Sortable {
+    font-size: 13px;
+    text-transform: uppercase;
+    color: darkslategray;
+    font-weight: bold;
+}
+
+.rdt_TableHeadRow {
+    border-radius: 5px;
+    /* background: #f6f9fe !important; */
+    border: 1px solid lightgray;
+}
+
+.edit_icon {
+    color: #049104;
+    padding: 5px 7px;
+    font-size: 31px !important;
+    border-radius: 5px;
+    cursor: pointer;
+    background: #e4f8e4;
+}
+
+.delete_icon {
+    background: #ecd3d3;
+    color: red;
+    padding: 5px 7px;
+    font-size: 31px !important;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.mail_icon {
+    background: rgb(218 218 233);
+    color: rgb(20, 20, 175);
+    padding: 5px 7px;
+    font-size: 31px !important;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.download_icon {
+    color: #049104;
+    background: #def2d0;
+    padding: 5px 5px;
+    font-size: 31px !important;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.view_icon {
+    background: #ffe9e9;
+    color: rgb(212, 7, 7);
+    padding: 5px 7px;
+    font-size: 31px !important;
+    border-radius: 5px;
+}
+
+.clone_icon{
+    background: beige;
+    color: #ff8c00;
+    padding: 5px 7px;
+    font-size: 31px !important;
+    border-radius: 5px;
+}
+.allowed {
+    cursor: pointer;
+}
+
+.not-allowed {
+    cursor: not-allowed;
+}
+
+.table_card_style {
+    padding: 12px 20px;
+    box-shadow: 0 5px 24px rgba(0, 0, 0, 0.19) !important;
+}
+
+.search_section_Form_list{
+    display: flex;
+    align-items: center;
+    justify-content: end; 
+}
+
+.search_section {
+    display: flex;
+    grid-gap: 10px;
+    padding-bottom: 10px;
+
+
+}
+.search_container,.filter_container{ 
+    width: 100%;
+    display: flex;
+    gap: 17px;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+.filter_container{
+    justify-content: end;
+}
+.search_section input[type="search"] {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    outline: none;
+    width: 40%;
+}
+
+.search_section_Form_list input[type="search"] {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    outline: none;
+    width: 60%;
+    height: 44px;
+}
+
+.search_section_Form_list button{
+    background: #1976d2;
+    color: white;
+    outline: none;
+    border: none;
+    padding: 12px 14px;
+    border-radius: 5px;
+
+}
+.search_section button {
+    background: #1976d2;
+    color: white;
+    outline: none;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 5px;
+
+}
+
+.checkbox_placment {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.search_input {
+    padding: 6px;
+}

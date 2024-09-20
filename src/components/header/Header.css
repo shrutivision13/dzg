@@ -1,0 +1,30 @@
+.MuiToolbar-root.MuiToolbar-gutters {
+    background-color: #fff !important;
+    box-shadow: 0 0 10px 1px rgba(68, 102, 242, .05);
+    color: black;
+}
+
+svg.MuiSvgIcon-root.header_logout {
+    color: black !important;
+}
+
+.svg.MuiSvgIcon-root.header_menu_icon {
+    color: black !important;
+}
+
+.header_icon {
+    padding: 6px;
+    display: flex;
+    background: #1976d2;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.header_icon .inner_icon {
+    color: white;
+}
+
+.change_password {
+    margin-right: 5px;
+}

@@ -1,0 +1,1 @@
+2024-02-08T13:35:18.272Z [INFO]: IND_current_time: 2024-02-08 19:05:18 PM, message: MongoDB connected.

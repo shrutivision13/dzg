@@ -1,0 +1,799 @@
+2024-04-15T11:56:28.834Z [INFO]: IND_current_time: 2024-04-15 17:26:28 PM, message: MongoDB connected.
+2024-04-15T11:56:42.544Z [INFO]: IND_current_time: 2024-04-15 17:26:42 PM, message: MongoDB connected.
+2024-04-15T11:56:43.578Z [INFO]: IND_current_time: 2024-04-15 17:26:43 PM, message: MongoDB connected.
+2024-04-15T11:57:10.490Z [INFO]: IND_current_time: 2024-04-15 17:27:10 PM, message: MongoDB connected.
+2024-04-15T11:57:19.051Z [INFO]: IND_current_time: 2024-04-15 17:27:19 PM, message: MongoDB connected.
+2024-04-15T11:57:19.686Z [INFO]: IND_current_time: 2024-04-15 17:27:19 PM, message: MongoDB connected.
+2024-04-15T11:57:37.287Z [INFO]: IND_current_time: 2024-04-15 17:27:37 PM, message: MongoDB connected.
+2024-04-15T11:57:38.493Z [INFO]: IND_current_time: 2024-04-15 17:27:38 PM, message: MongoDB connected.
+2024-04-15T11:57:43.980Z [INFO]: IND_current_time: 2024-04-15 17:27:43 PM, message: MongoDB connected.
+2024-04-15T11:57:44.142Z [INFO]: IND_current_time: 2024-04-15 17:27:44 PM, message: MongoDB connected.
+2024-04-15T11:57:51.336Z [INFO]: IND_current_time: 2024-04-15 17:27:51 PM, message: MongoDB connected.
+2024-04-15T11:57:51.532Z [INFO]: IND_current_time: 2024-04-15 17:27:51 PM, message: MongoDB connected.
+2024-04-15T11:57:57.420Z [INFO]: IND_current_time: 2024-04-15 17:27:57 PM, message: MongoDB connected.
+2024-04-15T11:58:03.284Z [INFO]: IND_current_time: 2024-04-15 17:28:03 PM, message: MongoDB connected.
+2024-04-15T11:58:03.437Z [INFO]: IND_current_time: 2024-04-15 17:28:03 PM, message: MongoDB connected.
+2024-04-15T11:58:06.164Z [INFO]: IND_current_time: 2024-04-15 17:28:06 PM, message: MongoDB connected.
+2024-04-15T11:58:06.173Z [INFO]: IND_current_time: 2024-04-15 17:28:06 PM, message: MongoDB connected.
+2024-04-15T11:58:10.067Z [INFO]: IND_current_time: 2024-04-15 17:28:10 PM, message: MongoDB connected.
+2024-04-15T11:58:11.837Z [INFO]: IND_current_time: 2024-04-15 17:28:11 PM, message: MongoDB connected.
+2024-04-15T11:58:13.017Z [INFO]: IND_current_time: 2024-04-15 17:28:13 PM, message: MongoDB connected.
+2024-04-15T11:58:13.024Z [INFO]: IND_current_time: 2024-04-15 17:28:13 PM, message: MongoDB connected.
+2024-04-15T11:58:15.856Z [INFO]: IND_current_time: 2024-04-15 17:28:15 PM, message: MongoDB connected.
+2024-04-15T11:58:16.004Z [INFO]: IND_current_time: 2024-04-15 17:28:16 PM, message: MongoDB connected.
+2024-04-15T11:58:20.176Z [INFO]: IND_current_time: 2024-04-15 17:28:20 PM, message: MongoDB connected.
+2024-04-15T11:58:20.181Z [INFO]: IND_current_time: 2024-04-15 17:28:20 PM, message: MongoDB connected.
+2024-04-15T11:58:21.628Z [INFO]: IND_current_time: 2024-04-15 17:28:21 PM, message: MongoDB connected.
+2024-04-15T11:58:32.392Z [INFO]: IND_current_time: 2024-04-15 17:28:32 PM, message: MongoDB connected.
+2024-04-15T11:58:34.370Z [INFO]: IND_current_time: 2024-04-15 17:28:34 PM, message: MongoDB connected.
+2024-04-15T11:58:51.151Z [INFO]: IND_current_time: 2024-04-15 17:28:51 PM, message: MongoDB connected.
+2024-04-15T11:58:55.461Z [INFO]: IND_current_time: 2024-04-15 17:28:55 PM, message: MongoDB connected.
+2024-04-15T11:58:56.464Z [INFO]: IND_current_time: 2024-04-15 17:28:56 PM, message: MongoDB connected.
+2024-04-15T11:59:13.462Z [INFO]: IND_current_time: 2024-04-15 17:29:13 PM, message: MongoDB connected.
+2024-04-15T11:59:32.685Z [INFO]: IND_current_time: 2024-04-15 17:29:32 PM, message: MongoDB connected.
+2024-04-15T11:59:35.951Z [INFO]: IND_current_time: 2024-04-15 17:29:35 PM, message: MongoDB connected.
+2024-04-15T11:59:35.969Z [INFO]: IND_current_time: 2024-04-15 17:29:35 PM, message: MongoDB connected.
+2024-04-15T11:59:40.256Z [INFO]: IND_current_time: 2024-04-15 17:29:40 PM, message: MongoDB connected.
+2024-04-15T11:59:40.972Z [INFO]: IND_current_time: 2024-04-15 17:29:40 PM, message: MongoDB connected.
+2024-04-15T11:59:45.117Z [INFO]: IND_current_time: 2024-04-15 17:29:45 PM, message: MongoDB connected.
+2024-04-15T11:59:49.868Z [INFO]: IND_current_time: 2024-04-15 17:29:49 PM, message: MongoDB connected.
+2024-04-15T11:59:57.664Z [INFO]: IND_current_time: 2024-04-15 17:29:57 PM, message: MongoDB connected.
+2024-04-15T11:59:57.670Z [INFO]: IND_current_time: 2024-04-15 17:29:57 PM, message: MongoDB connected.
+2024-04-15T11:59:59.764Z [INFO]: IND_current_time: 2024-04-15 17:29:59 PM, message: MongoDB connected.
+2024-04-15T12:00:11.074Z [INFO]: IND_current_time: 2024-04-15 17:30:11 PM, message: MongoDB connected.
+2024-04-15T12:00:12.426Z [ERROR]: IND_current_time: 2024-04-15 17:30:12 PM, message: Main catch error: {} message:Failed to launch the browser process! undefined
+[39785:39785:0415/120012.390938:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:00:44.281Z [INFO]: IND_current_time: 2024-04-15 17:30:44 PM, message: MongoDB connected.
+2024-04-15T12:00:44.378Z [ERROR]: IND_current_time: 2024-04-15 17:30:44 PM, message: Main catch error: {} message:Failed to launch the browser process! undefined
+[40374:40374:0415/120044.368635:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:00:48.570Z [INFO]: IND_current_time: 2024-04-15 17:30:48 PM, message: MongoDB connected.
+2024-04-15T12:00:48.692Z [ERROR]: IND_current_time: 2024-04-15 17:30:48 PM, message: Main catch error: {} message:Failed to launch the browser process!
+[40464:40464:0415/120048.684470:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:01:35.220Z [INFO]: IND_current_time: 2024-04-15 17:31:35 PM, message: MongoDB connected.
+2024-04-15T12:01:35.376Z [INFO]: IND_current_time: 2024-04-15 17:31:35 PM, message: MongoDB connected.
+2024-04-15T12:01:38.275Z [INFO]: IND_current_time: 2024-04-15 17:31:38 PM, message: MongoDB connected.
+2024-04-15T12:01:38.412Z [INFO]: IND_current_time: 2024-04-15 17:31:38 PM, message: MongoDB connected.
+2024-04-15T12:01:44.290Z [INFO]: IND_current_time: 2024-04-15 17:31:44 PM, message: MongoDB connected.
+2024-04-15T12:01:45.088Z [INFO]: IND_current_time: 2024-04-15 17:31:45 PM, message: MongoDB connected.
+2024-04-15T12:01:45.511Z [INFO]: IND_current_time: 2024-04-15 17:31:45 PM, message: MongoDB connected.
+2024-04-15T12:01:47.791Z [INFO]: IND_current_time: 2024-04-15 17:31:47 PM, message: MongoDB connected.
+2024-04-15T12:01:48.558Z [INFO]: IND_current_time: 2024-04-15 17:31:48 PM, message: MongoDB connected.
+2024-04-15T12:01:53.471Z [INFO]: IND_current_time: 2024-04-15 17:31:53 PM, message: MongoDB connected.
+2024-04-15T12:01:53.615Z [ERROR]: IND_current_time: 2024-04-15 17:31:53 PM, message: Main catch error: {} message:Failed to launch the browser process! undefined
+[41636:41636:0415/120153.602978:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:01:54.672Z [INFO]: IND_current_time: 2024-04-15 17:31:54 PM, message: MongoDB connected.
+2024-04-15T12:01:54.797Z [INFO]: IND_current_time: 2024-04-15 17:31:54 PM, message: MongoDB connected.
+2024-04-15T12:02:09.740Z [INFO]: IND_current_time: 2024-04-15 17:32:09 PM, message: MongoDB connected.
+2024-04-15T12:02:14.167Z [INFO]: IND_current_time: 2024-04-15 17:32:14 PM, message: MongoDB connected.
+2024-04-15T12:02:14.373Z [INFO]: IND_current_time: 2024-04-15 17:32:14 PM, message: MongoDB connected.
+2024-04-15T12:02:44.696Z [INFO]: IND_current_time: 2024-04-15 17:32:44 PM, message: MongoDB connected.
+2024-04-15T12:02:58.789Z [INFO]: IND_current_time: 2024-04-15 17:32:58 PM, message: MongoDB connected.
+2024-04-15T12:03:13.925Z [INFO]: IND_current_time: 2024-04-15 17:33:13 PM, message: MongoDB connected.
+2024-04-15T12:03:14.097Z [INFO]: IND_current_time: 2024-04-15 17:33:14 PM, message: MongoDB connected.
+2024-04-15T12:03:14.225Z [INFO]: IND_current_time: 2024-04-15 17:33:14 PM, message: MongoDB connected.
+2024-04-15T12:03:46.895Z [INFO]: IND_current_time: 2024-04-15 17:33:46 PM, message: MongoDB connected.
+2024-04-15T12:03:48.228Z [INFO]: IND_current_time: 2024-04-15 17:33:48 PM, message: MongoDB connected.
+2024-04-15T12:03:57.777Z [INFO]: IND_current_time: 2024-04-15 17:33:57 PM, message: MongoDB connected.
+2024-04-15T12:03:57.927Z [ERROR]: IND_current_time: 2024-04-15 17:33:57 PM, message: Main catch error: {} message:Failed to launch the browser process! undefined
+[43810:43810:0415/120357.920468:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:05:26.226Z [INFO]: IND_current_time: 2024-04-15 17:35:26 PM, message: MongoDB connected.
+2024-04-15T12:05:31.680Z [INFO]: IND_current_time: 2024-04-15 17:35:31 PM, message: MongoDB connected.
+2024-04-15T12:05:41.761Z [INFO]: IND_current_time: 2024-04-15 17:35:41 PM, message: MongoDB connected.
+2024-04-15T12:05:41.879Z [INFO]: IND_current_time: 2024-04-15 17:35:41 PM, message: MongoDB connected.
+2024-04-15T12:05:42.195Z [INFO]: IND_current_time: 2024-04-15 17:35:42 PM, message: MongoDB connected.
+2024-04-15T12:06:26.769Z [INFO]: IND_current_time: 2024-04-15 17:36:26 PM, message: MongoDB connected.
+2024-04-15T12:06:27.605Z [INFO]: IND_current_time: 2024-04-15 17:36:27 PM, message: MongoDB connected.
+2024-04-15T12:07:09.863Z [INFO]: IND_current_time: 2024-04-15 17:37:09 PM, message: MongoDB connected.
+2024-04-15T12:07:13.125Z [INFO]: IND_current_time: 2024-04-15 17:37:13 PM, message: MongoDB connected.
+2024-04-15T12:07:32.488Z [INFO]: IND_current_time: 2024-04-15 17:37:32 PM, message: MongoDB connected.
+2024-04-15T12:07:37.743Z [INFO]: IND_current_time: 2024-04-15 17:37:37 PM, message: MongoDB connected.
+2024-04-15T12:07:37.895Z [INFO]: IND_current_time: 2024-04-15 17:37:37 PM, message: MongoDB connected.
+2024-04-15T12:07:44.621Z [INFO]: IND_current_time: 2024-04-15 17:37:44 PM, message: MongoDB connected.
+2024-04-15T12:07:55.569Z [INFO]: IND_current_time: 2024-04-15 17:37:55 PM, message: MongoDB connected.
+2024-04-15T12:07:55.733Z [INFO]: IND_current_time: 2024-04-15 17:37:55 PM, message: MongoDB connected.
+2024-04-15T12:07:58.788Z [INFO]: IND_current_time: 2024-04-15 17:37:58 PM, message: MongoDB connected.
+2024-04-15T12:08:02.952Z [INFO]: IND_current_time: 2024-04-15 17:38:02 PM, message: MongoDB connected.
+2024-04-15T12:08:05.509Z [INFO]: IND_current_time: 2024-04-15 17:38:05 PM, message: MongoDB connected.
+2024-04-15T12:08:05.519Z [INFO]: IND_current_time: 2024-04-15 17:38:05 PM, message: MongoDB connected.
+2024-04-15T12:08:11.442Z [INFO]: IND_current_time: 2024-04-15 17:38:11 PM, message: MongoDB connected.
+2024-04-15T12:08:12.721Z [INFO]: IND_current_time: 2024-04-15 17:38:12 PM, message: MongoDB connected.
+2024-04-15T12:08:45.060Z [INFO]: IND_current_time: 2024-04-15 17:38:45 PM, message: MongoDB connected.
+2024-04-15T12:08:51.116Z [INFO]: IND_current_time: 2024-04-15 17:38:51 PM, message: MongoDB connected.
+2024-04-15T12:09:03.036Z [INFO]: IND_current_time: 2024-04-15 17:39:03 PM, message: MongoDB connected.
+2024-04-15T12:09:10.593Z [INFO]: IND_current_time: 2024-04-15 17:39:10 PM, message: MongoDB connected.
+2024-04-15T12:09:10.678Z [ERROR]: IND_current_time: 2024-04-15 17:39:10 PM, message: Main catch error: {} message:Failed to launch the browser process!
+[49367:49367:0415/120910.671464:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:09:17.543Z [INFO]: IND_current_time: 2024-04-15 17:39:17 PM, message: MongoDB connected.
+2024-04-15T12:09:17.551Z [INFO]: IND_current_time: 2024-04-15 17:39:17 PM, message: MongoDB connected.
+2024-04-15T12:09:21.391Z [INFO]: IND_current_time: 2024-04-15 17:39:21 PM, message: MongoDB connected.
+2024-04-15T12:09:21.397Z [INFO]: IND_current_time: 2024-04-15 17:39:21 PM, message: MongoDB connected.
+2024-04-15T12:09:30.210Z [INFO]: IND_current_time: 2024-04-15 17:39:30 PM, message: MongoDB connected.
+2024-04-15T12:09:34.913Z [INFO]: IND_current_time: 2024-04-15 17:39:34 PM, message: MongoDB connected.
+2024-04-15T12:09:41.401Z [INFO]: IND_current_time: 2024-04-15 17:39:41 PM, message: MongoDB connected.
+2024-04-15T12:09:41.408Z [INFO]: IND_current_time: 2024-04-15 17:39:41 PM, message: MongoDB connected.
+2024-04-15T12:09:43.823Z [INFO]: IND_current_time: 2024-04-15 17:39:43 PM, message: MongoDB connected.
+2024-04-15T12:09:46.094Z [INFO]: IND_current_time: 2024-04-15 17:39:46 PM, message: MongoDB connected.
+2024-04-15T12:09:46.105Z [INFO]: IND_current_time: 2024-04-15 17:39:46 PM, message: MongoDB connected.
+2024-04-15T12:09:48.205Z [INFO]: IND_current_time: 2024-04-15 17:39:48 PM, message: MongoDB connected.
+2024-04-15T12:09:50.194Z [INFO]: IND_current_time: 2024-04-15 17:39:50 PM, message: MongoDB connected.
+2024-04-15T12:09:50.209Z [INFO]: IND_current_time: 2024-04-15 17:39:50 PM, message: MongoDB connected.
+2024-04-15T12:10:00.310Z [INFO]: IND_current_time: 2024-04-15 17:40:00 PM, message: MongoDB connected.
+2024-04-15T12:11:20.940Z [INFO]: IND_current_time: 2024-04-15 17:41:20 PM, message: MongoDB connected.
+2024-04-15T12:11:20.950Z [INFO]: IND_current_time: 2024-04-15 17:41:20 PM, message: MongoDB connected.
+2024-04-15T12:11:25.113Z [INFO]: IND_current_time: 2024-04-15 17:41:25 PM, message: MongoDB connected.
+2024-04-15T12:11:25.982Z [INFO]: IND_current_time: 2024-04-15 17:41:25 PM, message: MongoDB connected.
+2024-04-15T12:11:30.163Z [INFO]: IND_current_time: 2024-04-15 17:41:30 PM, message: MongoDB connected.
+2024-04-15T12:11:32.692Z [INFO]: IND_current_time: 2024-04-15 17:41:32 PM, message: MongoDB connected.
+2024-04-15T12:11:33.847Z [INFO]: IND_current_time: 2024-04-15 17:41:33 PM, message: MongoDB connected.
+2024-04-15T12:11:37.680Z [INFO]: IND_current_time: 2024-04-15 17:41:37 PM, message: MongoDB connected.
+2024-04-15T12:11:39.045Z [INFO]: IND_current_time: 2024-04-15 17:41:39 PM, message: MongoDB connected.
+2024-04-15T12:11:52.264Z [INFO]: IND_current_time: 2024-04-15 17:41:52 PM, message: MongoDB connected.
+2024-04-15T12:11:57.468Z [INFO]: IND_current_time: 2024-04-15 17:41:57 PM, message: MongoDB connected.
+2024-04-15T12:11:57.473Z [INFO]: IND_current_time: 2024-04-15 17:41:57 PM, message: MongoDB connected.
+2024-04-15T12:12:01.300Z [INFO]: IND_current_time: 2024-04-15 17:42:01 PM, message: MongoDB connected.
+2024-04-15T12:12:05.375Z [INFO]: IND_current_time: 2024-04-15 17:42:05 PM, message: MongoDB connected.
+2024-04-15T12:12:07.773Z [INFO]: IND_current_time: 2024-04-15 17:42:07 PM, message: MongoDB connected.
+2024-04-15T12:12:09.368Z [INFO]: IND_current_time: 2024-04-15 17:42:09 PM, message: MongoDB connected.
+2024-04-15T12:12:12.442Z [INFO]: IND_current_time: 2024-04-15 17:42:12 PM, message: MongoDB connected.
+2024-04-15T12:12:21.231Z [INFO]: IND_current_time: 2024-04-15 17:42:21 PM, message: MongoDB connected.
+2024-04-15T12:12:24.313Z [INFO]: IND_current_time: 2024-04-15 17:42:24 PM, message: MongoDB connected.
+2024-04-15T12:12:28.708Z [INFO]: IND_current_time: 2024-04-15 17:42:28 PM, message: MongoDB connected.
+2024-04-15T12:12:28.919Z [ERROR]: IND_current_time: 2024-04-15 17:42:28 PM, message: Main catch error: {} message:Failed to launch the browser process!
+[52838:52838:0415/121228.911607:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:12:47.324Z [INFO]: IND_current_time: 2024-04-15 17:42:47 PM, message: MongoDB connected.
+2024-04-15T12:12:49.948Z [INFO]: IND_current_time: 2024-04-15 17:42:49 PM, message: MongoDB connected.
+2024-04-15T12:12:54.401Z [INFO]: IND_current_time: 2024-04-15 17:42:54 PM, message: MongoDB connected.
+2024-04-15T12:12:54.502Z [ERROR]: IND_current_time: 2024-04-15 17:42:54 PM, message: Main catch error: {} message:Failed to launch the browser process!
+[53320:53320:0415/121254.491610:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:12:59.217Z [INFO]: IND_current_time: 2024-04-15 17:42:59 PM, message: MongoDB connected.
+2024-04-15T12:13:11.535Z [INFO]: IND_current_time: 2024-04-15 17:43:11 PM, message: MongoDB connected.
+2024-04-15T12:13:11.565Z [INFO]: IND_current_time: 2024-04-15 17:43:11 PM, message: MongoDB connected.
+2024-04-15T12:13:14.279Z [INFO]: IND_current_time: 2024-04-15 17:43:14 PM, message: MongoDB connected.
+2024-04-15T12:13:14.284Z [INFO]: IND_current_time: 2024-04-15 17:43:14 PM, message: MongoDB connected.
+2024-04-15T12:13:14.978Z [INFO]: IND_current_time: 2024-04-15 17:43:14 PM, message: MongoDB connected.
+2024-04-15T12:13:18.954Z [INFO]: IND_current_time: 2024-04-15 17:43:18 PM, message: MongoDB connected.
+2024-04-15T12:13:25.677Z [INFO]: IND_current_time: 2024-04-15 17:43:25 PM, message: MongoDB connected.
+2024-04-15T12:13:26.867Z [INFO]: IND_current_time: 2024-04-15 17:43:26 PM, message: MongoDB connected.
+2024-04-15T12:13:44.584Z [INFO]: IND_current_time: 2024-04-15 17:43:44 PM, message: MongoDB connected.
+2024-04-15T12:13:46.564Z [INFO]: IND_current_time: 2024-04-15 17:43:46 PM, message: MongoDB connected.
+2024-04-15T12:13:56.238Z [INFO]: IND_current_time: 2024-04-15 17:43:56 PM, message: MongoDB connected.
+2024-04-15T12:13:56.325Z [ERROR]: IND_current_time: 2024-04-15 17:43:56 PM, message: Main catch error: {} message:Failed to launch the browser process!
+[54437:54437:0415/121356.318647:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:14:01.715Z [INFO]: IND_current_time: 2024-04-15 17:44:01 PM, message: MongoDB connected.
+2024-04-15T12:14:05.040Z [INFO]: IND_current_time: 2024-04-15 17:44:05 PM, message: MongoDB connected.
+2024-04-15T12:14:08.431Z [INFO]: IND_current_time: 2024-04-15 17:44:08 PM, message: MongoDB connected.
+2024-04-15T12:14:08.440Z [INFO]: IND_current_time: 2024-04-15 17:44:08 PM, message: MongoDB connected.
+2024-04-15T12:14:14.055Z [INFO]: IND_current_time: 2024-04-15 17:44:14 PM, message: MongoDB connected.
+2024-04-15T12:14:14.059Z [INFO]: IND_current_time: 2024-04-15 17:44:14 PM, message: MongoDB connected.
+2024-04-15T12:14:22.849Z [INFO]: IND_current_time: 2024-04-15 17:44:22 PM, message: MongoDB connected.
+2024-04-15T12:16:35.930Z [INFO]: IND_current_time: 2024-04-15 17:46:35 PM, message: MongoDB connected.
+2024-04-15T12:16:39.530Z [INFO]: IND_current_time: 2024-04-15 17:46:39 PM, message: MongoDB connected.
+2024-04-15T12:16:39.549Z [INFO]: IND_current_time: 2024-04-15 17:46:39 PM, message: MongoDB connected.
+2024-04-15T12:19:02.165Z [INFO]: IND_current_time: 2024-04-15 17:49:02 PM, message: MongoDB connected.
+2024-04-15T12:19:02.212Z [INFO]: IND_current_time: 2024-04-15 17:49:02 PM, message: MongoDB connected.
+2024-04-15T12:19:03.761Z [INFO]: IND_current_time: 2024-04-15 17:49:03 PM, message: MongoDB connected.
+2024-04-15T12:19:10.761Z [INFO]: IND_current_time: 2024-04-15 17:49:10 PM, message: MongoDB connected.
+2024-04-15T12:19:32.189Z [INFO]: IND_current_time: 2024-04-15 17:49:32 PM, message: MongoDB connected.
+2024-04-15T12:19:32.194Z [INFO]: IND_current_time: 2024-04-15 17:49:32 PM, message: MongoDB connected.
+2024-04-15T12:19:40.995Z [INFO]: IND_current_time: 2024-04-15 17:49:40 PM, message: MongoDB connected.
+2024-04-15T12:19:47.550Z [INFO]: IND_current_time: 2024-04-15 17:49:47 PM, message: MongoDB connected.
+2024-04-15T12:19:57.856Z [INFO]: IND_current_time: 2024-04-15 17:49:57 PM, message: MongoDB connected.
+2024-04-15T12:20:04.930Z [INFO]: IND_current_time: 2024-04-15 17:50:04 PM, message: MongoDB connected.
+2024-04-15T12:20:09.302Z [INFO]: IND_current_time: 2024-04-15 17:50:09 PM, message: MongoDB connected.
+2024-04-15T12:20:54.570Z [INFO]: IND_current_time: 2024-04-15 17:50:54 PM, message: MongoDB connected.
+2024-04-15T12:20:54.578Z [INFO]: IND_current_time: 2024-04-15 17:50:54 PM, message: MongoDB connected.
+2024-04-15T12:21:30.463Z [INFO]: IND_current_time: 2024-04-15 17:51:30 PM, message: MongoDB connected.
+2024-04-15T12:21:39.031Z [INFO]: IND_current_time: 2024-04-15 17:51:39 PM, message: MongoDB connected.
+2024-04-15T12:21:43.221Z [INFO]: IND_current_time: 2024-04-15 17:51:43 PM, message: MongoDB connected.
+2024-04-15T12:21:43.228Z [INFO]: IND_current_time: 2024-04-15 17:51:43 PM, message: MongoDB connected.
+2024-04-15T12:21:53.069Z [INFO]: IND_current_time: 2024-04-15 17:51:53 PM, message: MongoDB connected.
+2024-04-15T12:21:55.378Z [INFO]: IND_current_time: 2024-04-15 17:51:55 PM, message: MongoDB connected.
+2024-04-15T12:21:56.783Z [INFO]: IND_current_time: 2024-04-15 17:51:56 PM, message: MongoDB connected.
+2024-04-15T12:22:10.125Z [INFO]: IND_current_time: 2024-04-15 17:52:10 PM, message: MongoDB connected.
+2024-04-15T12:22:11.582Z [INFO]: IND_current_time: 2024-04-15 17:52:11 PM, message: MongoDB connected.
+2024-04-15T12:22:12.126Z [INFO]: IND_current_time: 2024-04-15 17:52:12 PM, message: MongoDB connected.
+2024-04-15T12:22:12.280Z [INFO]: IND_current_time: 2024-04-15 17:52:12 PM, message: MongoDB connected.
+2024-04-15T12:22:14.379Z [INFO]: IND_current_time: 2024-04-15 17:52:14 PM, message: MongoDB connected.
+2024-04-15T12:22:16.021Z [INFO]: IND_current_time: 2024-04-15 17:52:16 PM, message: MongoDB connected.
+2024-04-15T12:22:16.173Z [INFO]: IND_current_time: 2024-04-15 17:52:16 PM, message: MongoDB connected.
+2024-04-15T12:22:20.713Z [INFO]: IND_current_time: 2024-04-15 17:52:20 PM, message: MongoDB connected.
+2024-04-15T12:22:20.797Z [ERROR]: IND_current_time: 2024-04-15 17:52:20 PM, message: Main catch error: {} message:Failed to launch the browser process! undefined
+[63405:63405:0415/122220.789466:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:23:07.121Z [INFO]: IND_current_time: 2024-04-15 17:53:07 PM, message: MongoDB connected.
+2024-04-15T12:23:22.955Z [INFO]: IND_current_time: 2024-04-15 17:53:22 PM, message: MongoDB connected.
+2024-04-15T12:23:32.637Z [INFO]: IND_current_time: 2024-04-15 17:53:32 PM, message: MongoDB connected.
+2024-04-15T12:23:32.800Z [INFO]: IND_current_time: 2024-04-15 17:53:32 PM, message: MongoDB connected.
+2024-04-15T12:23:32.958Z [INFO]: IND_current_time: 2024-04-15 17:53:32 PM, message: MongoDB connected.
+2024-04-15T12:23:44.589Z [INFO]: IND_current_time: 2024-04-15 17:53:44 PM, message: MongoDB connected.
+2024-04-15T12:23:49.966Z [INFO]: IND_current_time: 2024-04-15 17:53:49 PM, message: MongoDB connected.
+2024-04-15T12:23:49.977Z [INFO]: IND_current_time: 2024-04-15 17:53:49 PM, message: MongoDB connected.
+2024-04-15T12:23:55.605Z [INFO]: IND_current_time: 2024-04-15 17:53:55 PM, message: MongoDB connected.
+2024-04-15T12:24:05.137Z [INFO]: IND_current_time: 2024-04-15 17:54:05 PM, message: MongoDB connected.
+2024-04-15T12:24:05.144Z [INFO]: IND_current_time: 2024-04-15 17:54:05 PM, message: MongoDB connected.
+2024-04-15T12:24:14.438Z [INFO]: IND_current_time: 2024-04-15 17:54:14 PM, message: MongoDB connected.
+2024-04-15T12:24:14.443Z [INFO]: IND_current_time: 2024-04-15 17:54:14 PM, message: MongoDB connected.
+2024-04-15T12:24:34.213Z [INFO]: IND_current_time: 2024-04-15 17:54:34 PM, message: MongoDB connected.
+2024-04-15T12:24:34.220Z [INFO]: IND_current_time: 2024-04-15 17:54:34 PM, message: MongoDB connected.
+2024-04-15T12:24:49.775Z [INFO]: IND_current_time: 2024-04-15 17:54:49 PM, message: MongoDB connected.
+2024-04-15T12:24:55.540Z [INFO]: IND_current_time: 2024-04-15 17:54:55 PM, message: MongoDB connected.
+2024-04-15T12:24:55.554Z [INFO]: IND_current_time: 2024-04-15 17:54:55 PM, message: MongoDB connected.
+2024-04-15T12:24:55.892Z [INFO]: IND_current_time: 2024-04-15 17:54:55 PM, message: MongoDB connected.
+2024-04-15T12:24:55.914Z [INFO]: IND_current_time: 2024-04-15 17:54:55 PM, message: MongoDB connected.
+2024-04-15T12:24:58.241Z [INFO]: IND_current_time: 2024-04-15 17:54:58 PM, message: MongoDB connected.
+2024-04-15T12:24:58.248Z [INFO]: IND_current_time: 2024-04-15 17:54:58 PM, message: MongoDB connected.
+2024-04-15T12:25:00.370Z [INFO]: IND_current_time: 2024-04-15 17:55:00 PM, message: MongoDB connected.
+2024-04-15T12:25:00.374Z [INFO]: IND_current_time: 2024-04-15 17:55:00 PM, message: MongoDB connected.
+2024-04-15T12:25:00.403Z [INFO]: IND_current_time: 2024-04-15 17:55:00 PM, message: MongoDB connected.
+2024-04-15T12:25:01.960Z [INFO]: IND_current_time: 2024-04-15 17:55:01 PM, message: MongoDB connected.
+2024-04-15T12:25:01.971Z [INFO]: IND_current_time: 2024-04-15 17:55:01 PM, message: MongoDB connected.
+2024-04-15T12:25:02.866Z [INFO]: IND_current_time: 2024-04-15 17:55:02 PM, message: MongoDB connected.
+2024-04-15T12:25:02.875Z [INFO]: IND_current_time: 2024-04-15 17:55:02 PM, message: MongoDB connected.
+2024-04-15T12:25:03.411Z [INFO]: IND_current_time: 2024-04-15 17:55:03 PM, message: MongoDB connected.
+2024-04-15T12:25:03.623Z [INFO]: IND_current_time: 2024-04-15 17:55:03 PM, message: MongoDB connected.
+2024-04-15T12:25:03.628Z [INFO]: IND_current_time: 2024-04-15 17:55:03 PM, message: MongoDB connected.
+2024-04-15T12:25:04.533Z [INFO]: IND_current_time: 2024-04-15 17:55:04 PM, message: MongoDB connected.
+2024-04-15T12:25:07.771Z [INFO]: IND_current_time: 2024-04-15 17:55:07 PM, message: MongoDB connected.
+2024-04-15T12:25:07.777Z [INFO]: IND_current_time: 2024-04-15 17:55:07 PM, message: MongoDB connected.
+2024-04-15T12:25:16.165Z [INFO]: IND_current_time: 2024-04-15 17:55:16 PM, message: MongoDB connected.
+2024-04-15T12:25:21.286Z [INFO]: IND_current_time: 2024-04-15 17:55:21 PM, message: MongoDB connected.
+2024-04-15T12:25:22.230Z [INFO]: IND_current_time: 2024-04-15 17:55:22 PM, message: MongoDB connected.
+2024-04-15T12:25:34.732Z [INFO]: IND_current_time: 2024-04-15 17:55:34 PM, message: MongoDB connected.
+2024-04-15T12:25:36.198Z [INFO]: IND_current_time: 2024-04-15 17:55:36 PM, message: MongoDB connected.
+2024-04-15T12:25:42.004Z [INFO]: IND_current_time: 2024-04-15 17:55:42 PM, message: MongoDB connected.
+2024-04-15T12:25:42.110Z [ERROR]: IND_current_time: 2024-04-15 17:55:42 PM, message: Main catch error: {} message:Failed to launch the browser process! undefined
+[67071:67071:0415/122542.099999:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:25:44.926Z [INFO]: IND_current_time: 2024-04-15 17:55:44 PM, message: MongoDB connected.
+2024-04-15T12:26:22.095Z [INFO]: IND_current_time: 2024-04-15 17:56:22 PM, message: MongoDB connected.
+2024-04-15T12:26:22.120Z [INFO]: IND_current_time: 2024-04-15 17:56:22 PM, message: MongoDB connected.
+2024-04-15T12:26:23.693Z [INFO]: IND_current_time: 2024-04-15 17:56:23 PM, message: MongoDB connected.
+2024-04-15T12:26:26.219Z [INFO]: IND_current_time: 2024-04-15 17:56:26 PM, message: MongoDB connected.
+2024-04-15T12:26:27.988Z [INFO]: IND_current_time: 2024-04-15 17:56:27 PM, message: MongoDB connected.
+2024-04-15T12:26:35.783Z [INFO]: IND_current_time: 2024-04-15 17:56:35 PM, message: MongoDB connected.
+2024-04-15T12:26:35.832Z [INFO]: IND_current_time: 2024-04-15 17:56:35 PM, message: MongoDB connected.
+2024-04-15T12:26:41.649Z [INFO]: IND_current_time: 2024-04-15 17:56:41 PM, message: MongoDB connected.
+2024-04-15T12:26:41.691Z [INFO]: IND_current_time: 2024-04-15 17:56:41 PM, message: MongoDB connected.
+2024-04-15T12:29:33.450Z [INFO]: IND_current_time: 2024-04-15 17:59:33 PM, message: MongoDB connected.
+2024-04-15T12:29:33.455Z [INFO]: IND_current_time: 2024-04-15 17:59:33 PM, message: MongoDB connected.
+2024-04-15T12:30:28.025Z [INFO]: IND_current_time: 2024-04-15 18:00:28 PM, message: MongoDB connected.
+2024-04-15T12:30:32.528Z [INFO]: IND_current_time: 2024-04-15 18:00:32 PM, message: MongoDB connected.
+2024-04-15T12:30:37.051Z [INFO]: IND_current_time: 2024-04-15 18:00:37 PM, message: MongoDB connected.
+2024-04-15T12:30:37.059Z [INFO]: IND_current_time: 2024-04-15 18:00:37 PM, message: MongoDB connected.
+2024-04-15T12:30:39.093Z [INFO]: IND_current_time: 2024-04-15 18:00:39 PM, message: MongoDB connected.
+2024-04-15T12:30:45.461Z [INFO]: IND_current_time: 2024-04-15 18:00:45 PM, message: MongoDB connected.
+2024-04-15T12:30:45.466Z [INFO]: IND_current_time: 2024-04-15 18:00:45 PM, message: MongoDB connected.
+2024-04-15T12:31:18.662Z [INFO]: IND_current_time: 2024-04-15 18:01:18 PM, message: MongoDB connected.
+2024-04-15T12:31:19.592Z [INFO]: IND_current_time: 2024-04-15 18:01:19 PM, message: MongoDB connected.
+2024-04-15T12:31:22.937Z [INFO]: IND_current_time: 2024-04-15 18:01:22 PM, message: MongoDB connected.
+2024-04-15T12:31:23.853Z [INFO]: IND_current_time: 2024-04-15 18:01:23 PM, message: MongoDB connected.
+2024-04-15T12:31:42.672Z [INFO]: IND_current_time: 2024-04-15 18:01:42 PM, message: MongoDB connected.
+2024-04-15T12:31:50.203Z [INFO]: IND_current_time: 2024-04-15 18:01:50 PM, message: MongoDB connected.
+2024-04-15T12:31:57.210Z [INFO]: IND_current_time: 2024-04-15 18:01:57 PM, message: MongoDB connected.
+2024-04-15T12:31:58.334Z [INFO]: IND_current_time: 2024-04-15 18:01:58 PM, message: MongoDB connected.
+2024-04-15T12:32:02.009Z [INFO]: IND_current_time: 2024-04-15 18:02:02 PM, message: MongoDB connected.
+2024-04-15T12:32:03.496Z [INFO]: IND_current_time: 2024-04-15 18:02:03 PM, message: MongoDB connected.
+2024-04-15T12:32:03.567Z [ERROR]: IND_current_time: 2024-04-15 18:02:03 PM, message: Main catch error: {} message:Failed to launch the browser process! undefined
+[73968:73968:0415/123203.561467:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:32:24.458Z [INFO]: IND_current_time: 2024-04-15 18:02:24 PM, message: MongoDB connected.
+2024-04-15T12:32:26.333Z [INFO]: IND_current_time: 2024-04-15 18:02:26 PM, message: MongoDB connected.
+2024-04-15T12:32:27.593Z [INFO]: IND_current_time: 2024-04-15 18:02:27 PM, message: MongoDB connected.
+2024-04-15T12:32:28.620Z [INFO]: IND_current_time: 2024-04-15 18:02:28 PM, message: MongoDB connected.
+2024-04-15T12:32:29.750Z [INFO]: IND_current_time: 2024-04-15 18:02:29 PM, message: MongoDB connected.
+2024-04-15T12:32:31.428Z [INFO]: IND_current_time: 2024-04-15 18:02:31 PM, message: MongoDB connected.
+2024-04-15T12:32:33.757Z [INFO]: IND_current_time: 2024-04-15 18:02:33 PM, message: MongoDB connected.
+2024-04-15T12:32:34.778Z [INFO]: IND_current_time: 2024-04-15 18:02:34 PM, message: MongoDB connected.
+2024-04-15T12:32:35.689Z [INFO]: IND_current_time: 2024-04-15 18:02:35 PM, message: MongoDB connected.
+2024-04-15T12:32:36.505Z [INFO]: IND_current_time: 2024-04-15 18:02:36 PM, message: MongoDB connected.
+2024-04-15T12:32:37.484Z [INFO]: IND_current_time: 2024-04-15 18:02:37 PM, message: MongoDB connected.
+2024-04-15T12:32:39.853Z [INFO]: IND_current_time: 2024-04-15 18:02:39 PM, message: MongoDB connected.
+2024-04-15T12:32:40.538Z [INFO]: IND_current_time: 2024-04-15 18:02:40 PM, message: MongoDB connected.
+2024-04-15T12:32:42.159Z [INFO]: IND_current_time: 2024-04-15 18:02:42 PM, message: MongoDB connected.
+2024-04-15T12:32:42.743Z [INFO]: IND_current_time: 2024-04-15 18:02:42 PM, message: MongoDB connected.
+2024-04-15T12:32:58.571Z [INFO]: IND_current_time: 2024-04-15 18:02:58 PM, message: MongoDB connected.
+2024-04-15T12:32:58.700Z [INFO]: IND_current_time: 2024-04-15 18:02:58 PM, message: MongoDB connected.
+2024-04-15T12:33:01.648Z [INFO]: IND_current_time: 2024-04-15 18:03:01 PM, message: MongoDB connected.
+2024-04-15T12:33:18.853Z [INFO]: IND_current_time: 2024-04-15 18:03:18 PM, message: MongoDB connected.
+2024-04-15T12:33:18.873Z [INFO]: IND_current_time: 2024-04-15 18:03:18 PM, message: MongoDB connected.
+2024-04-15T12:33:28.426Z [INFO]: IND_current_time: 2024-04-15 18:03:28 PM, message: MongoDB connected.
+2024-04-15T12:33:28.538Z [INFO]: IND_current_time: 2024-04-15 18:03:28 PM, message: MongoDB connected.
+2024-04-15T12:33:36.380Z [INFO]: IND_current_time: 2024-04-15 18:03:36 PM, message: MongoDB connected.
+2024-04-15T12:33:39.136Z [INFO]: IND_current_time: 2024-04-15 18:03:39 PM, message: MongoDB connected.
+2024-04-15T12:33:40.078Z [INFO]: IND_current_time: 2024-04-15 18:03:40 PM, message: MongoDB connected.
+2024-04-15T12:33:49.298Z [INFO]: IND_current_time: 2024-04-15 18:03:49 PM, message: MongoDB connected.
+2024-04-15T12:33:55.709Z [INFO]: IND_current_time: 2024-04-15 18:03:55 PM, message: MongoDB connected.
+2024-04-15T12:33:55.715Z [INFO]: IND_current_time: 2024-04-15 18:03:55 PM, message: MongoDB connected.
+2024-04-15T12:33:57.443Z [INFO]: IND_current_time: 2024-04-15 18:03:57 PM, message: MongoDB connected.
+2024-04-15T12:33:59.411Z [INFO]: IND_current_time: 2024-04-15 18:03:59 PM, message: MongoDB connected.
+2024-04-15T12:34:07.989Z [INFO]: IND_current_time: 2024-04-15 18:04:07 PM, message: MongoDB connected.
+2024-04-15T12:34:07.994Z [INFO]: IND_current_time: 2024-04-15 18:04:07 PM, message: MongoDB connected.
+2024-04-15T12:34:10.964Z [INFO]: IND_current_time: 2024-04-15 18:04:10 PM, message: MongoDB connected.
+2024-04-15T12:34:10.969Z [INFO]: IND_current_time: 2024-04-15 18:04:10 PM, message: MongoDB connected.
+2024-04-15T12:34:10.994Z [INFO]: IND_current_time: 2024-04-15 18:04:10 PM, message: MongoDB connected.
+2024-04-15T12:34:10.998Z [INFO]: IND_current_time: 2024-04-15 18:04:10 PM, message: MongoDB connected.
+2024-04-15T12:34:15.426Z [INFO]: IND_current_time: 2024-04-15 18:04:15 PM, message: MongoDB connected.
+2024-04-15T12:34:15.431Z [INFO]: IND_current_time: 2024-04-15 18:04:15 PM, message: MongoDB connected.
+2024-04-15T12:34:17.233Z [INFO]: IND_current_time: 2024-04-15 18:04:17 PM, message: MongoDB connected.
+2024-04-15T12:34:17.236Z [INFO]: IND_current_time: 2024-04-15 18:04:17 PM, message: MongoDB connected.
+2024-04-15T12:34:18.967Z [INFO]: IND_current_time: 2024-04-15 18:04:18 PM, message: MongoDB connected.
+2024-04-15T12:34:18.974Z [INFO]: IND_current_time: 2024-04-15 18:04:18 PM, message: MongoDB connected.
+2024-04-15T12:34:24.757Z [INFO]: IND_current_time: 2024-04-15 18:04:24 PM, message: MongoDB connected.
+2024-04-15T12:34:24.782Z [INFO]: IND_current_time: 2024-04-15 18:04:24 PM, message: MongoDB connected.
+2024-04-15T12:34:27.197Z [INFO]: IND_current_time: 2024-04-15 18:04:27 PM, message: MongoDB connected.
+2024-04-15T12:34:27.201Z [INFO]: IND_current_time: 2024-04-15 18:04:27 PM, message: MongoDB connected.
+2024-04-15T12:34:30.634Z [INFO]: IND_current_time: 2024-04-15 18:04:30 PM, message: MongoDB connected.
+2024-04-15T12:34:30.641Z [INFO]: IND_current_time: 2024-04-15 18:04:30 PM, message: MongoDB connected.
+2024-04-15T12:34:31.906Z [INFO]: IND_current_time: 2024-04-15 18:04:31 PM, message: MongoDB connected.
+2024-04-15T12:34:31.910Z [INFO]: IND_current_time: 2024-04-15 18:04:31 PM, message: MongoDB connected.
+2024-04-15T12:34:33.147Z [INFO]: IND_current_time: 2024-04-15 18:04:33 PM, message: MongoDB connected.
+2024-04-15T12:34:33.152Z [INFO]: IND_current_time: 2024-04-15 18:04:33 PM, message: MongoDB connected.
+2024-04-15T12:34:35.761Z [INFO]: IND_current_time: 2024-04-15 18:04:35 PM, message: MongoDB connected.
+2024-04-15T12:34:35.766Z [INFO]: IND_current_time: 2024-04-15 18:04:35 PM, message: MongoDB connected.
+2024-04-15T12:34:38.974Z [INFO]: IND_current_time: 2024-04-15 18:04:38 PM, message: MongoDB connected.
+2024-04-15T12:34:38.977Z [INFO]: IND_current_time: 2024-04-15 18:04:38 PM, message: MongoDB connected.
+2024-04-15T12:34:45.954Z [INFO]: IND_current_time: 2024-04-15 18:04:45 PM, message: MongoDB connected.
+2024-04-15T12:34:45.958Z [INFO]: IND_current_time: 2024-04-15 18:04:45 PM, message: MongoDB connected.
+2024-04-15T12:35:12.092Z [INFO]: IND_current_time: 2024-04-15 18:05:12 PM, message: MongoDB connected.
+2024-04-15T12:35:12.108Z [INFO]: IND_current_time: 2024-04-15 18:05:12 PM, message: MongoDB connected.
+2024-04-15T12:35:13.454Z [INFO]: IND_current_time: 2024-04-15 18:05:13 PM, message: MongoDB connected.
+2024-04-15T12:35:13.458Z [INFO]: IND_current_time: 2024-04-15 18:05:13 PM, message: MongoDB connected.
+2024-04-15T12:35:16.799Z [INFO]: IND_current_time: 2024-04-15 18:05:16 PM, message: MongoDB connected.
+2024-04-15T12:35:19.487Z [INFO]: IND_current_time: 2024-04-15 18:05:19 PM, message: MongoDB connected.
+2024-04-15T12:35:23.650Z [INFO]: IND_current_time: 2024-04-15 18:05:23 PM, message: MongoDB connected.
+2024-04-15T12:35:23.668Z [INFO]: IND_current_time: 2024-04-15 18:05:23 PM, message: MongoDB connected.
+2024-04-15T12:35:25.637Z [INFO]: IND_current_time: 2024-04-15 18:05:25 PM, message: MongoDB connected.
+2024-04-15T12:35:25.643Z [INFO]: IND_current_time: 2024-04-15 18:05:25 PM, message: MongoDB connected.
+2024-04-15T12:35:26.758Z [INFO]: IND_current_time: 2024-04-15 18:05:26 PM, message: MongoDB connected.
+2024-04-15T12:35:26.767Z [INFO]: IND_current_time: 2024-04-15 18:05:26 PM, message: MongoDB connected.
+2024-04-15T12:35:53.502Z [INFO]: IND_current_time: 2024-04-15 18:05:53 PM, message: MongoDB connected.
+2024-04-15T12:35:55.107Z [INFO]: IND_current_time: 2024-04-15 18:05:55 PM, message: MongoDB connected.
+2024-04-15T12:35:55.126Z [INFO]: IND_current_time: 2024-04-15 18:05:55 PM, message: MongoDB connected.
+2024-04-15T12:35:56.893Z [INFO]: IND_current_time: 2024-04-15 18:05:56 PM, message: MongoDB connected.
+2024-04-15T12:35:56.897Z [INFO]: IND_current_time: 2024-04-15 18:05:56 PM, message: MongoDB connected.
+2024-04-15T12:37:27.872Z [INFO]: IND_current_time: 2024-04-15 18:07:27 PM, message: MongoDB connected.
+2024-04-15T12:37:57.042Z [INFO]: IND_current_time: 2024-04-15 18:07:57 PM, message: MongoDB connected.
+2024-04-15T12:40:00.134Z [INFO]: IND_current_time: 2024-04-15 18:10:00 PM, message: MongoDB connected.
+2024-04-15T12:40:00.139Z [INFO]: IND_current_time: 2024-04-15 18:10:00 PM, message: MongoDB connected.
+2024-04-15T12:45:56.723Z [INFO]: IND_current_time: 2024-04-15 18:15:56 PM, message: MongoDB connected.
+2024-04-15T12:45:56.845Z [INFO]: IND_current_time: 2024-04-15 18:15:56 PM, message: MongoDB connected.
+2024-04-15T12:45:59.414Z [INFO]: IND_current_time: 2024-04-15 18:15:59 PM, message: MongoDB connected.
+2024-04-15T12:45:59.418Z [INFO]: IND_current_time: 2024-04-15 18:15:59 PM, message: MongoDB connected.
+2024-04-15T12:46:03.810Z [INFO]: IND_current_time: 2024-04-15 18:16:03 PM, message: MongoDB connected.
+2024-04-15T12:46:03.814Z [INFO]: IND_current_time: 2024-04-15 18:16:03 PM, message: MongoDB connected.
+2024-04-15T12:46:05.194Z [INFO]: IND_current_time: 2024-04-15 18:16:05 PM, message: MongoDB connected.
+2024-04-15T12:46:06.781Z [INFO]: IND_current_time: 2024-04-15 18:16:06 PM, message: MongoDB connected.
+2024-04-15T12:46:06.788Z [INFO]: IND_current_time: 2024-04-15 18:16:06 PM, message: MongoDB connected.
+2024-04-15T12:46:11.352Z [INFO]: IND_current_time: 2024-04-15 18:16:11 PM, message: MongoDB connected.
+2024-04-15T12:46:11.854Z [INFO]: IND_current_time: 2024-04-15 18:16:11 PM, message: MongoDB connected.
+2024-04-15T12:46:13.295Z [INFO]: IND_current_time: 2024-04-15 18:16:13 PM, message: MongoDB connected.
+2024-04-15T12:46:14.702Z [INFO]: IND_current_time: 2024-04-15 18:16:14 PM, message: MongoDB connected.
+2024-04-15T12:46:14.730Z [INFO]: IND_current_time: 2024-04-15 18:16:14 PM, message: MongoDB connected.
+2024-04-15T12:46:17.402Z [INFO]: IND_current_time: 2024-04-15 18:16:17 PM, message: MongoDB connected.
+2024-04-15T12:46:21.434Z [INFO]: IND_current_time: 2024-04-15 18:16:21 PM, message: MongoDB connected.
+2024-04-15T12:46:21.597Z [INFO]: IND_current_time: 2024-04-15 18:16:21 PM, message: MongoDB connected.
+2024-04-15T12:46:25.053Z [INFO]: IND_current_time: 2024-04-15 18:16:25 PM, message: MongoDB connected.
+2024-04-15T12:46:25.201Z [INFO]: IND_current_time: 2024-04-15 18:16:25 PM, message: MongoDB connected.
+2024-04-15T12:46:28.188Z [INFO]: IND_current_time: 2024-04-15 18:16:28 PM, message: MongoDB connected.
+2024-04-15T12:46:30.969Z [INFO]: IND_current_time: 2024-04-15 18:16:30 PM, message: MongoDB connected.
+2024-04-15T12:46:30.973Z [INFO]: IND_current_time: 2024-04-15 18:16:30 PM, message: MongoDB connected.
+2024-04-15T12:49:12.429Z [INFO]: IND_current_time: 2024-04-15 18:19:12 PM, message: MongoDB connected.
+2024-04-15T12:49:12.687Z [INFO]: IND_current_time: 2024-04-15 18:19:12 PM, message: MongoDB connected.
+2024-04-15T12:49:13.213Z [INFO]: IND_current_time: 2024-04-15 18:19:13 PM, message: MongoDB connected.
+2024-04-15T12:52:46.163Z [INFO]: IND_current_time: 2024-04-15 18:22:46 PM, message: MongoDB connected.
+2024-04-15T12:53:46.986Z [INFO]: IND_current_time: 2024-04-15 18:23:46 PM, message: MongoDB connected.
+2024-04-15T12:55:11.859Z [INFO]: IND_current_time: 2024-04-15 18:25:11 PM, message: MongoDB connected.
+2024-04-15T12:55:11.911Z [INFO]: IND_current_time: 2024-04-15 18:25:11 PM, message: MongoDB connected.
+2024-04-15T12:55:16.929Z [INFO]: IND_current_time: 2024-04-15 18:25:16 PM, message: MongoDB connected.
+2024-04-15T12:55:16.935Z [INFO]: IND_current_time: 2024-04-15 18:25:16 PM, message: MongoDB connected.
+2024-04-15T12:55:21.284Z [INFO]: IND_current_time: 2024-04-15 18:25:21 PM, message: MongoDB connected.
+2024-04-15T12:55:23.607Z [INFO]: IND_current_time: 2024-04-15 18:25:23 PM, message: MongoDB connected.
+2024-04-15T12:55:26.795Z [INFO]: IND_current_time: 2024-04-15 18:25:26 PM, message: MongoDB connected.
+2024-04-15T12:55:32.721Z [INFO]: IND_current_time: 2024-04-15 18:25:32 PM, message: MongoDB connected.
+2024-04-15T12:55:33.826Z [ERROR]: IND_current_time: 2024-04-15 18:25:33 PM, message: Main catch error: {} message:Failed to launch the browser process! undefined
+[99312:99312:0415/125533.784527:ERROR:zygote_host_impl_linux.cc(100)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+2024-04-15T12:55:39.176Z [INFO]: IND_current_time: 2024-04-15 18:25:39 PM, message: MongoDB connected.
+2024-04-15T12:55:41.986Z [INFO]: IND_current_time: 2024-04-15 18:25:41 PM, message: MongoDB connected.
+2024-04-15T12:55:41.990Z [INFO]: IND_current_time: 2024-04-15 18:25:41 PM, message: MongoDB connected.
+2024-04-15T12:55:47.411Z [INFO]: IND_current_time: 2024-04-15 18:25:47 PM, message: MongoDB connected.
+2024-04-15T12:55:50.188Z [INFO]: IND_current_time: 2024-04-15 18:25:50 PM, message: MongoDB connected.
+2024-04-15T12:55:51.396Z [INFO]: IND_current_time: 2024-04-15 18:25:51 PM, message: MongoDB connected.
+2024-04-15T12:56:05.385Z [INFO]: IND_current_time: 2024-04-15 18:26:05 PM, message: MongoDB connected.
+2024-04-15T12:56:05.388Z [INFO]: IND_current_time: 2024-04-15 18:26:05 PM, message: MongoDB connected.
+2024-04-15T12:56:17.038Z [INFO]: IND_current_time: 2024-04-15 18:26:17 PM, message: MongoDB connected.
+2024-04-15T12:56:20.991Z [INFO]: IND_current_time: 2024-04-15 18:26:20 PM, message: MongoDB connected.
+2024-04-15T12:56:22.167Z [INFO]: IND_current_time: 2024-04-15 18:26:22 PM, message: MongoDB connected.
+2024-04-15T12:56:37.264Z [INFO]: IND_current_time: 2024-04-15 18:26:37 PM, message: MongoDB connected.
+2024-04-15T12:57:03.435Z [INFO]: IND_current_time: 2024-04-15 18:27:03 PM, message: MongoDB connected.
+2024-04-15T12:57:03.441Z [INFO]: IND_current_time: 2024-04-15 18:27:03 PM, message: MongoDB connected.
+2024-04-15T12:57:13.452Z [INFO]: IND_current_time: 2024-04-15 18:27:13 PM, message: MongoDB connected.
+2024-04-15T12:57:13.459Z [INFO]: IND_current_time: 2024-04-15 18:27:13 PM, message: MongoDB connected.
+2024-04-15T12:57:17.682Z [INFO]: IND_current_time: 2024-04-15 18:27:17 PM, message: MongoDB connected.
+2024-04-15T12:57:18.661Z [INFO]: IND_current_time: 2024-04-15 18:27:18 PM, message: MongoDB connected.
+2024-04-15T12:57:18.666Z [INFO]: IND_current_time: 2024-04-15 18:27:18 PM, message: MongoDB connected.
+2024-04-15T12:57:21.052Z [INFO]: IND_current_time: 2024-04-15 18:27:21 PM, message: MongoDB connected.
+2024-04-15T12:57:21.057Z [INFO]: IND_current_time: 2024-04-15 18:27:21 PM, message: MongoDB connected.
+2024-04-15T12:58:09.376Z [INFO]: IND_current_time: 2024-04-15 18:28:09 PM, message: MongoDB connected.
+2024-04-15T12:58:14.651Z [INFO]: IND_current_time: 2024-04-15 18:28:14 PM, message: MongoDB connected.
+2024-04-15T12:58:55.045Z [INFO]: IND_current_time: 2024-04-15 18:28:55 PM, message: MongoDB connected.
+2024-04-15T12:58:55.136Z [INFO]: IND_current_time: 2024-04-15 18:28:55 PM, message: MongoDB connected.
+2024-04-15T12:58:58.098Z [INFO]: IND_current_time: 2024-04-15 18:28:58 PM, message: MongoDB connected.
+2024-04-15T12:58:58.102Z [INFO]: IND_current_time: 2024-04-15 18:28:58 PM, message: MongoDB connected.
+2024-04-15T12:59:03.390Z [INFO]: IND_current_time: 2024-04-15 18:29:03 PM, message: MongoDB connected.
+2024-04-15T12:59:11.560Z [INFO]: IND_current_time: 2024-04-15 18:29:11 PM, message: MongoDB connected.
+2024-04-15T12:59:11.566Z [INFO]: IND_current_time: 2024-04-15 18:29:11 PM, message: MongoDB connected.
+2024-04-15T12:59:14.356Z [INFO]: IND_current_time: 2024-04-15 18:29:14 PM, message: MongoDB connected.
+2024-04-15T12:59:15.201Z [INFO]: IND_current_time: 2024-04-15 18:29:15 PM, message: MongoDB connected.
+2024-04-15T12:59:15.622Z [INFO]: IND_current_time: 2024-04-15 18:29:15 PM, message: MongoDB connected.
+2024-04-15T12:59:15.640Z [INFO]: IND_current_time: 2024-04-15 18:29:15 PM, message: MongoDB connected.
+2024-04-15T12:59:16.028Z [INFO]: IND_current_time: 2024-04-15 18:29:16 PM, message: MongoDB connected.
+2024-04-15T12:59:24.589Z [INFO]: IND_current_time: 2024-04-15 18:29:24 PM, message: MongoDB connected.
+2024-04-15T12:59:39.958Z [INFO]: IND_current_time: 2024-04-15 18:29:39 PM, message: MongoDB connected.
+2024-04-15T12:59:44.402Z [INFO]: IND_current_time: 2024-04-15 18:29:44 PM, message: MongoDB connected.
+2024-04-15T12:59:50.774Z [INFO]: IND_current_time: 2024-04-15 18:29:50 PM, message: MongoDB connected.
+2024-04-15T13:00:25.056Z [INFO]: IND_current_time: 2024-04-15 18:30:25 PM, message: MongoDB connected.
+2024-04-15T13:00:25.123Z [INFO]: IND_current_time: 2024-04-15 18:30:25 PM, message: MongoDB connected.
+2024-04-15T13:00:27.744Z [INFO]: IND_current_time: 2024-04-15 18:30:27 PM, message: MongoDB connected.
+2024-04-15T13:00:27.748Z [INFO]: IND_current_time: 2024-04-15 18:30:27 PM, message: MongoDB connected.
+2024-04-15T13:00:29.624Z [INFO]: IND_current_time: 2024-04-15 18:30:29 PM, message: MongoDB connected.
+2024-04-15T13:00:29.629Z [INFO]: IND_current_time: 2024-04-15 18:30:29 PM, message: MongoDB connected.
+2024-04-15T13:00:32.297Z [INFO]: IND_current_time: 2024-04-15 18:30:32 PM, message: MongoDB connected.
+2024-04-15T13:00:32.302Z [INFO]: IND_current_time: 2024-04-15 18:30:32 PM, message: MongoDB connected.
+2024-04-15T13:00:43.970Z [INFO]: IND_current_time: 2024-04-15 18:30:43 PM, message: MongoDB connected.
+2024-04-15T13:00:46.135Z [INFO]: IND_current_time: 2024-04-15 18:30:46 PM, message: MongoDB connected.
+2024-04-15T13:00:47.686Z [INFO]: IND_current_time: 2024-04-15 18:30:47 PM, message: MongoDB connected.
+2024-04-15T13:00:51.722Z [INFO]: IND_current_time: 2024-04-15 18:30:51 PM, message: MongoDB connected.
+2024-04-15T13:00:51.728Z [INFO]: IND_current_time: 2024-04-15 18:30:51 PM, message: MongoDB connected.
+2024-04-15T13:00:59.080Z [INFO]: IND_current_time: 2024-04-15 18:30:59 PM, message: MongoDB connected.
+2024-04-15T13:01:00.841Z [INFO]: IND_current_time: 2024-04-15 18:31:00 PM, message: MongoDB connected.
+2024-04-15T13:01:00.847Z [INFO]: IND_current_time: 2024-04-15 18:31:00 PM, message: MongoDB connected.
+2024-04-15T13:01:05.702Z [INFO]: IND_current_time: 2024-04-15 18:31:05 PM, message: MongoDB connected.
+2024-04-15T13:01:10.768Z [INFO]: IND_current_time: 2024-04-15 18:31:10 PM, message: MongoDB connected.
+2024-04-15T13:01:11.897Z [INFO]: IND_current_time: 2024-04-15 18:31:11 PM, message: MongoDB connected.
+2024-04-15T13:01:11.902Z [INFO]: IND_current_time: 2024-04-15 18:31:11 PM, message: MongoDB connected.
+2024-04-15T13:01:20.827Z [INFO]: IND_current_time: 2024-04-15 18:31:20 PM, message: MongoDB connected.
+2024-04-15T13:01:30.219Z [INFO]: IND_current_time: 2024-04-15 18:31:30 PM, message: MongoDB connected.
+2024-04-15T13:01:39.661Z [INFO]: IND_current_time: 2024-04-15 18:31:39 PM, message: MongoDB connected.
+2024-04-15T13:01:42.214Z [INFO]: IND_current_time: 2024-04-15 18:31:42 PM, message: MongoDB connected.
+2024-04-15T13:01:43.473Z [INFO]: IND_current_time: 2024-04-15 18:31:43 PM, message: MongoDB connected.
+2024-04-15T13:01:45.502Z [INFO]: IND_current_time: 2024-04-15 18:31:45 PM, message: MongoDB connected.
+2024-04-15T13:01:45.514Z [INFO]: IND_current_time: 2024-04-15 18:31:45 PM, message: MongoDB connected.
+2024-04-15T13:01:47.005Z [INFO]: IND_current_time: 2024-04-15 18:31:47 PM, message: MongoDB connected.
+2024-04-15T13:02:27.452Z [INFO]: IND_current_time: 2024-04-15 18:32:27 PM, message: MongoDB connected.
+2024-04-15T13:02:27.458Z [INFO]: IND_current_time: 2024-04-15 18:32:27 PM, message: MongoDB connected.
+2024-04-15T13:03:35.470Z [INFO]: IND_current_time: 2024-04-15 18:33:35 PM, message: MongoDB connected.
+2024-04-15T13:04:19.488Z [INFO]: IND_current_time: 2024-04-15 18:34:19 PM, message: MongoDB connected.
+2024-04-15T13:04:32.895Z [INFO]: IND_current_time: 2024-04-15 18:34:32 PM, message: MongoDB connected.
+2024-04-15T13:04:32.946Z [INFO]: IND_current_time: 2024-04-15 18:34:32 PM, message: MongoDB connected.
+2024-04-15T13:04:34.537Z [INFO]: IND_current_time: 2024-04-15 18:34:34 PM, message: MongoDB connected.
+2024-04-15T13:04:34.548Z [INFO]: IND_current_time: 2024-04-15 18:34:34 PM, message: MongoDB connected.
+2024-04-15T13:05:10.512Z [INFO]: IND_current_time: 2024-04-15 18:35:10 PM, message: MongoDB connected.
+2024-04-15T13:08:36.100Z [INFO]: IND_current_time: 2024-04-15 18:38:36 PM, message: MongoDB connected.
+2024-04-15T13:08:44.668Z [INFO]: IND_current_time: 2024-04-15 18:38:44 PM, message: MongoDB connected.
+2024-04-15T13:08:46.078Z [INFO]: IND_current_time: 2024-04-15 18:38:46 PM, message: MongoDB connected.
+2024-04-15T13:08:46.914Z [INFO]: IND_current_time: 2024-04-15 18:38:46 PM, message: MongoDB connected.
+2024-04-15T13:08:59.921Z [INFO]: IND_current_time: 2024-04-15 18:38:59 PM, message: MongoDB connected.
+2024-04-15T13:09:01.573Z [INFO]: IND_current_time: 2024-04-15 18:39:01 PM, message: MongoDB connected.
+2024-04-15T13:09:02.708Z [INFO]: IND_current_time: 2024-04-15 18:39:02 PM, message: MongoDB connected.
+2024-04-15T13:09:04.207Z [INFO]: IND_current_time: 2024-04-15 18:39:04 PM, message: MongoDB connected.
+2024-04-15T13:09:04.977Z [INFO]: IND_current_time: 2024-04-15 18:39:04 PM, message: MongoDB connected.
+2024-04-15T13:09:06.233Z [INFO]: IND_current_time: 2024-04-15 18:39:06 PM, message: MongoDB connected.
+2024-04-15T13:09:10.333Z [INFO]: IND_current_time: 2024-04-15 18:39:10 PM, message: MongoDB connected.
+2024-04-15T13:09:11.347Z [INFO]: IND_current_time: 2024-04-15 18:39:11 PM, message: MongoDB connected.
+2024-04-15T13:09:12.214Z [INFO]: IND_current_time: 2024-04-15 18:39:12 PM, message: MongoDB connected.
+2024-04-15T13:09:14.467Z [INFO]: IND_current_time: 2024-04-15 18:39:14 PM, message: MongoDB connected.
+2024-04-15T13:09:31.385Z [INFO]: IND_current_time: 2024-04-15 18:39:31 PM, message: MongoDB connected.
+2024-04-15T13:09:33.440Z [INFO]: IND_current_time: 2024-04-15 18:39:33 PM, message: MongoDB connected.
+2024-04-15T13:09:34.357Z [INFO]: IND_current_time: 2024-04-15 18:39:34 PM, message: MongoDB connected.
+2024-04-15T13:09:35.798Z [INFO]: IND_current_time: 2024-04-15 18:39:35 PM, message: MongoDB connected.
+2024-04-15T13:09:37.568Z [INFO]: IND_current_time: 2024-04-15 18:39:37 PM, message: MongoDB connected.
+2024-04-15T13:09:38.617Z [INFO]: IND_current_time: 2024-04-15 18:39:38 PM, message: MongoDB connected.
+2024-04-15T13:09:39.331Z [INFO]: IND_current_time: 2024-04-15 18:39:39 PM, message: MongoDB connected.
+2024-04-15T13:10:11.325Z [INFO]: IND_current_time: 2024-04-15 18:40:11 PM, message: MongoDB connected.
+2024-04-15T13:10:14.223Z [INFO]: IND_current_time: 2024-04-15 18:40:14 PM, message: MongoDB connected.
+2024-04-15T13:10:19.967Z [INFO]: IND_current_time: 2024-04-15 18:40:19 PM, message: MongoDB connected.
+2024-04-15T13:10:22.847Z [INFO]: IND_current_time: 2024-04-15 18:40:22 PM, message: PDF generated successfully.
+2024-04-15T13:10:22.990Z [INFO]: IND_current_time: 2024-04-15 18:40:22 PM, message: MongoDB connected.
+2024-04-15T13:10:32.635Z [INFO]: IND_current_time: 2024-04-15 18:40:32 PM, message: MongoDB connected.
+2024-04-15T13:10:33.951Z [INFO]: IND_current_time: 2024-04-15 18:40:33 PM, message: MongoDB connected.
+2024-04-15T13:10:59.691Z [INFO]: IND_current_time: 2024-04-15 18:40:59 PM, message: MongoDB connected.
+2024-04-15T13:11:00.965Z [INFO]: IND_current_time: 2024-04-15 18:41:00 PM, message: MongoDB connected.
+2024-04-15T13:11:01.572Z [INFO]: IND_current_time: 2024-04-15 18:41:01 PM, message: MongoDB connected.
+2024-04-15T13:11:04.178Z [INFO]: IND_current_time: 2024-04-15 18:41:04 PM, message: MongoDB connected.
+2024-04-15T13:11:07.002Z [INFO]: IND_current_time: 2024-04-15 18:41:07 PM, message: MongoDB connected.
+2024-04-15T13:11:08.682Z [INFO]: IND_current_time: 2024-04-15 18:41:08 PM, message: MongoDB connected.
+2024-04-15T13:11:10.382Z [INFO]: IND_current_time: 2024-04-15 18:41:10 PM, message: MongoDB connected.
+2024-04-15T13:11:15.237Z [INFO]: IND_current_time: 2024-04-15 18:41:15 PM, message: MongoDB connected.
+2024-04-15T13:11:17.311Z [INFO]: IND_current_time: 2024-04-15 18:41:17 PM, message: MongoDB connected.
+2024-04-15T13:11:24.517Z [INFO]: IND_current_time: 2024-04-15 18:41:24 PM, message: MongoDB connected.
+2024-04-15T13:11:26.003Z [INFO]: IND_current_time: 2024-04-15 18:41:26 PM, message: MongoDB connected.
+2024-04-15T13:11:26.516Z [INFO]: IND_current_time: 2024-04-15 18:41:26 PM, message: MongoDB connected.
+2024-04-15T13:11:28.337Z [INFO]: IND_current_time: 2024-04-15 18:41:28 PM, message: MongoDB connected.
+2024-04-15T13:11:29.728Z [INFO]: IND_current_time: 2024-04-15 18:41:29 PM, message: MongoDB connected.
+2024-04-15T13:11:36.870Z [INFO]: IND_current_time: 2024-04-15 18:41:36 PM, message: MongoDB connected.
+2024-04-15T13:11:37.552Z [INFO]: IND_current_time: 2024-04-15 18:41:37 PM, message: MongoDB connected.
+2024-04-15T13:11:38.023Z [INFO]: IND_current_time: 2024-04-15 18:41:38 PM, message: MongoDB connected.
+2024-04-15T13:11:40.436Z [INFO]: IND_current_time: 2024-04-15 18:41:40 PM, message: MongoDB connected.
+2024-04-15T13:11:41.348Z [INFO]: IND_current_time: 2024-04-15 18:41:41 PM, message: MongoDB connected.
+2024-04-15T13:11:41.850Z [INFO]: IND_current_time: 2024-04-15 18:41:41 PM, message: MongoDB connected.
+2024-04-15T13:11:43.291Z [INFO]: IND_current_time: 2024-04-15 18:41:43 PM, message: MongoDB connected.
+2024-04-15T13:11:45.347Z [INFO]: IND_current_time: 2024-04-15 18:41:45 PM, message: MongoDB connected.
+2024-04-15T13:11:46.210Z [INFO]: IND_current_time: 2024-04-15 18:41:46 PM, message: MongoDB connected.
+2024-04-15T13:11:52.669Z [INFO]: IND_current_time: 2024-04-15 18:41:52 PM, message: MongoDB connected.
+2024-04-15T13:11:55.943Z [INFO]: IND_current_time: 2024-04-15 18:41:55 PM, message: MongoDB connected.
+2024-04-15T13:12:02.901Z [INFO]: IND_current_time: 2024-04-15 18:42:02 PM, message: MongoDB connected.
+2024-04-15T13:12:05.001Z [INFO]: IND_current_time: 2024-04-15 18:42:05 PM, message: MongoDB connected.
+2024-04-15T13:12:09.193Z [INFO]: IND_current_time: 2024-04-15 18:42:09 PM, message: MongoDB connected.
+2024-04-15T13:12:20.840Z [INFO]: IND_current_time: 2024-04-15 18:42:20 PM, message: MongoDB connected.
+2024-04-15T13:12:23.846Z [INFO]: IND_current_time: 2024-04-15 18:42:23 PM, message: MongoDB connected.
+2024-04-15T13:12:26.553Z [INFO]: IND_current_time: 2024-04-15 18:42:26 PM, message: MongoDB connected.
+2024-04-15T13:12:27.406Z [INFO]: IND_current_time: 2024-04-15 18:42:27 PM, message: MongoDB connected.
+2024-04-15T13:12:28.209Z [INFO]: IND_current_time: 2024-04-15 18:42:28 PM, message: MongoDB connected.
+2024-04-15T13:12:36.357Z [INFO]: IND_current_time: 2024-04-15 18:42:36 PM, message: MongoDB connected.
+2024-04-15T13:12:38.114Z [INFO]: IND_current_time: 2024-04-15 18:42:38 PM, message: MongoDB connected.
+2024-04-15T13:12:39.184Z [INFO]: IND_current_time: 2024-04-15 18:42:39 PM, message: MongoDB connected.
+2024-04-15T13:12:42.141Z [INFO]: IND_current_time: 2024-04-15 18:42:42 PM, message: MongoDB connected.
+2024-04-15T13:12:44.377Z [INFO]: IND_current_time: 2024-04-15 18:42:44 PM, message: MongoDB connected.
+2024-04-15T13:12:46.956Z [INFO]: IND_current_time: 2024-04-15 18:42:46 PM, message: MongoDB connected.
+2024-04-15T13:13:09.458Z [INFO]: IND_current_time: 2024-04-15 18:43:09 PM, message: MongoDB connected.
+2024-04-15T13:13:13.612Z [INFO]: IND_current_time: 2024-04-15 18:43:13 PM, message: MongoDB connected.
+2024-04-15T13:13:18.924Z [INFO]: IND_current_time: 2024-04-15 18:43:18 PM, message: MongoDB connected.
+2024-04-15T13:13:21.335Z [INFO]: IND_current_time: 2024-04-15 18:43:21 PM, message: MongoDB connected.
+2024-04-15T13:14:01.294Z [INFO]: IND_current_time: 2024-04-15 18:44:01 PM, message: MongoDB connected.
+2024-04-15T13:14:03.232Z [INFO]: IND_current_time: 2024-04-15 18:44:03 PM, message: MongoDB connected.
+2024-04-15T13:14:04.274Z [INFO]: IND_current_time: 2024-04-15 18:44:04 PM, message: MongoDB connected.
+2024-04-15T13:14:05.394Z [INFO]: IND_current_time: 2024-04-15 18:44:05 PM, message: MongoDB connected.
+2024-04-15T13:14:07.812Z [INFO]: IND_current_time: 2024-04-15 18:44:07 PM, message: MongoDB connected.
+2024-04-15T13:14:10.951Z [INFO]: IND_current_time: 2024-04-15 18:44:10 PM, message: MongoDB connected.
+2024-04-15T13:14:56.320Z [INFO]: IND_current_time: 2024-04-15 18:44:56 PM, message: MongoDB connected.
+2024-04-15T13:14:59.490Z [INFO]: IND_current_time: 2024-04-15 18:44:59 PM, message: MongoDB connected.
+2024-04-15T13:15:00.877Z [INFO]: IND_current_time: 2024-04-15 18:45:00 PM, message: MongoDB connected.
+2024-04-15T13:15:02.266Z [INFO]: IND_current_time: 2024-04-15 18:45:02 PM, message: MongoDB connected.
+2024-04-15T13:15:05.206Z [INFO]: IND_current_time: 2024-04-15 18:45:05 PM, message: MongoDB connected.
+2024-04-15T13:15:07.451Z [INFO]: IND_current_time: 2024-04-15 18:45:07 PM, message: MongoDB connected.
+2024-04-15T13:15:08.970Z [INFO]: IND_current_time: 2024-04-15 18:45:08 PM, message: MongoDB connected.
+2024-04-15T13:15:31.726Z [INFO]: IND_current_time: 2024-04-15 18:45:31 PM, message: MongoDB connected.
+2024-04-15T13:15:33.370Z [INFO]: IND_current_time: 2024-04-15 18:45:33 PM, message: MongoDB connected.
+2024-04-15T13:15:34.585Z [INFO]: IND_current_time: 2024-04-15 18:45:34 PM, message: MongoDB connected.
+2024-04-15T13:15:35.651Z [INFO]: IND_current_time: 2024-04-15 18:45:35 PM, message: MongoDB connected.
+2024-04-15T13:15:37.880Z [INFO]: IND_current_time: 2024-04-15 18:45:37 PM, message: MongoDB connected.
+2024-04-15T13:15:38.375Z [INFO]: IND_current_time: 2024-04-15 18:45:38 PM, message: MongoDB connected.
+2024-04-15T13:15:40.500Z [INFO]: IND_current_time: 2024-04-15 18:45:40 PM, message: MongoDB connected.
+2024-04-15T13:15:47.599Z [INFO]: IND_current_time: 2024-04-15 18:45:47 PM, message: MongoDB connected.
+2024-04-15T13:15:57.242Z [INFO]: IND_current_time: 2024-04-15 18:45:57 PM, message: MongoDB connected.
+2024-04-15T13:15:59.923Z [INFO]: IND_current_time: 2024-04-15 18:45:59 PM, message: MongoDB connected.
+2024-04-15T13:16:00.075Z [INFO]: IND_current_time: 2024-04-15 18:46:00 PM, message: MongoDB connected.
+2024-04-15T13:16:01.006Z [INFO]: IND_current_time: 2024-04-15 18:46:01 PM, message: MongoDB connected.
+2024-04-15T13:16:02.205Z [INFO]: IND_current_time: 2024-04-15 18:46:02 PM, message: MongoDB connected.
+2024-04-15T13:16:03.947Z [INFO]: IND_current_time: 2024-04-15 18:46:03 PM, message: MongoDB connected.
+2024-04-15T13:16:05.859Z [INFO]: IND_current_time: 2024-04-15 18:46:05 PM, message: MongoDB connected.
+2024-04-15T13:16:08.093Z [INFO]: IND_current_time: 2024-04-15 18:46:08 PM, message: MongoDB connected.
+2024-04-15T13:16:09.775Z [INFO]: IND_current_time: 2024-04-15 18:46:09 PM, message: MongoDB connected.
+2024-04-15T13:16:11.837Z [INFO]: IND_current_time: 2024-04-15 18:46:11 PM, message: MongoDB connected.
+2024-04-15T13:16:12.916Z [INFO]: IND_current_time: 2024-04-15 18:46:12 PM, message: PDF generated successfully.
+2024-04-15T13:16:13.105Z [INFO]: IND_current_time: 2024-04-15 18:46:13 PM, message: MongoDB connected.
+2024-04-15T13:16:14.965Z [INFO]: IND_current_time: 2024-04-15 18:46:14 PM, message: MongoDB connected.
+2024-04-15T13:16:15.914Z [INFO]: IND_current_time: 2024-04-15 18:46:15 PM, message: PDF generated successfully.
+2024-04-15T13:16:16.059Z [INFO]: IND_current_time: 2024-04-15 18:46:16 PM, message: MongoDB connected.
+2024-04-15T13:16:50.648Z [INFO]: IND_current_time: 2024-04-15 18:46:50 PM, message: MongoDB connected.
+2024-04-15T13:16:59.088Z [INFO]: IND_current_time: 2024-04-15 18:46:59 PM, message: MongoDB connected.
+2024-04-15T13:16:59.775Z [INFO]: IND_current_time: 2024-04-15 18:46:59 PM, message: MongoDB connected.
+2024-04-15T13:17:01.320Z [INFO]: IND_current_time: 2024-04-15 18:47:01 PM, message: MongoDB connected.
+2024-04-15T13:17:02.147Z [INFO]: IND_current_time: 2024-04-15 18:47:02 PM, message: MongoDB connected.
+2024-04-15T13:17:03.868Z [INFO]: IND_current_time: 2024-04-15 18:47:03 PM, message: MongoDB connected.
+2024-04-15T13:17:04.763Z [INFO]: IND_current_time: 2024-04-15 18:47:04 PM, message: MongoDB connected.
+2024-04-15T13:17:06.341Z [INFO]: IND_current_time: 2024-04-15 18:47:06 PM, message: MongoDB connected.
+2024-04-15T13:17:07.693Z [INFO]: IND_current_time: 2024-04-15 18:47:07 PM, message: MongoDB connected.
+2024-04-15T13:17:10.115Z [INFO]: IND_current_time: 2024-04-15 18:47:10 PM, message: MongoDB connected.
+2024-04-15T13:17:11.018Z [INFO]: IND_current_time: 2024-04-15 18:47:11 PM, message: MongoDB connected.
+2024-04-15T13:17:12.510Z [INFO]: IND_current_time: 2024-04-15 18:47:12 PM, message: MongoDB connected.
+2024-04-15T13:17:17.314Z [INFO]: IND_current_time: 2024-04-15 18:47:17 PM, message: MongoDB connected.
+2024-04-15T13:17:18.857Z [INFO]: IND_current_time: 2024-04-15 18:47:18 PM, message: MongoDB connected.
+2024-04-15T13:17:49.995Z [INFO]: IND_current_time: 2024-04-15 18:47:49 PM, message: MongoDB connected.
+2024-04-15T13:17:51.932Z [INFO]: IND_current_time: 2024-04-15 18:47:51 PM, message: MongoDB connected.
+2024-04-15T13:17:53.954Z [INFO]: IND_current_time: 2024-04-15 18:47:53 PM, message: MongoDB connected.
+2024-04-15T13:17:57.215Z [INFO]: IND_current_time: 2024-04-15 18:47:57 PM, message: MongoDB connected.
+2024-04-15T13:17:59.192Z [INFO]: IND_current_time: 2024-04-15 18:47:59 PM, message: MongoDB connected.
+2024-04-15T13:18:01.656Z [INFO]: IND_current_time: 2024-04-15 18:48:01 PM, message: MongoDB connected.
+2024-04-15T13:18:01.960Z [INFO]: IND_current_time: 2024-04-15 18:48:01 PM, message: MongoDB connected.
+2024-04-15T13:18:03.781Z [INFO]: IND_current_time: 2024-04-15 18:48:03 PM, message: MongoDB connected.
+2024-04-15T13:18:12.547Z [INFO]: IND_current_time: 2024-04-15 18:48:12 PM, message: MongoDB connected.
+2024-04-15T13:18:15.118Z [INFO]: IND_current_time: 2024-04-15 18:48:15 PM, message: MongoDB connected.
+2024-04-15T13:18:30.883Z [INFO]: IND_current_time: 2024-04-15 18:48:30 PM, message: MongoDB connected.
+2024-04-15T13:18:33.601Z [INFO]: IND_current_time: 2024-04-15 18:48:33 PM, message: MongoDB connected.
+2024-04-15T13:18:38.328Z [INFO]: IND_current_time: 2024-04-15 18:48:38 PM, message: MongoDB connected.
+2024-04-15T13:18:39.232Z [INFO]: IND_current_time: 2024-04-15 18:48:39 PM, message: PDF generated successfully.
+2024-04-15T13:18:39.369Z [INFO]: IND_current_time: 2024-04-15 18:48:39 PM, message: MongoDB connected.
+2024-04-15T13:18:42.319Z [INFO]: IND_current_time: 2024-04-15 18:48:42 PM, message: MongoDB connected.
+2024-04-15T13:18:54.613Z [INFO]: IND_current_time: 2024-04-15 18:48:54 PM, message: MongoDB connected.
+2024-04-15T13:18:54.774Z [INFO]: IND_current_time: 2024-04-15 18:48:54 PM, message: MongoDB connected.
+2024-04-15T13:19:10.515Z [INFO]: IND_current_time: 2024-04-15 18:49:10 PM, message: MongoDB connected.
+2024-04-15T13:19:25.463Z [INFO]: IND_current_time: 2024-04-15 18:49:25 PM, message: MongoDB connected.
+2024-04-15T13:19:37.349Z [INFO]: IND_current_time: 2024-04-15 18:49:37 PM, message: MongoDB connected.
+2024-04-15T13:19:43.807Z [INFO]: IND_current_time: 2024-04-15 18:49:43 PM, message: MongoDB connected.
+2024-04-15T13:19:45.179Z [INFO]: IND_current_time: 2024-04-15 18:49:45 PM, message: MongoDB connected.
+2024-04-15T13:20:06.410Z [INFO]: IND_current_time: 2024-04-15 18:50:06 PM, message: MongoDB connected.
+2024-04-15T13:20:10.581Z [INFO]: IND_current_time: 2024-04-15 18:50:10 PM, message: MongoDB connected.
+2024-04-15T13:20:12.354Z [INFO]: IND_current_time: 2024-04-15 18:50:12 PM, message: MongoDB connected.
+2024-04-15T13:20:21.878Z [INFO]: IND_current_time: 2024-04-15 18:50:21 PM, message: MongoDB connected.
+2024-04-15T13:20:33.817Z [INFO]: IND_current_time: 2024-04-15 18:50:33 PM, message: MongoDB connected.
+2024-04-15T13:20:33.974Z [INFO]: IND_current_time: 2024-04-15 18:50:33 PM, message: MongoDB connected.
+2024-04-15T13:20:38.232Z [INFO]: IND_current_time: 2024-04-15 18:50:38 PM, message: MongoDB connected.
+2024-04-15T13:20:50.925Z [INFO]: IND_current_time: 2024-04-15 18:50:50 PM, message: MongoDB connected.
+2024-04-15T13:21:01.046Z [INFO]: IND_current_time: 2024-04-15 18:51:01 PM, message: MongoDB connected.
+2024-04-15T13:21:01.222Z [INFO]: IND_current_time: 2024-04-15 18:51:01 PM, message: MongoDB connected.
+2024-04-15T13:21:20.122Z [INFO]: IND_current_time: 2024-04-15 18:51:20 PM, message: MongoDB connected.
+2024-04-15T13:21:21.334Z [INFO]: IND_current_time: 2024-04-15 18:51:21 PM, message: PDF generated successfully.
+2024-04-15T13:21:21.479Z [INFO]: IND_current_time: 2024-04-15 18:51:21 PM, message: MongoDB connected.
+2024-04-15T13:21:30.343Z [INFO]: IND_current_time: 2024-04-15 18:51:30 PM, message: MongoDB connected.
+2024-04-15T13:21:32.139Z [INFO]: IND_current_time: 2024-04-15 18:51:32 PM, message: MongoDB connected.
+2024-04-15T13:21:34.787Z [INFO]: IND_current_time: 2024-04-15 18:51:34 PM, message: MongoDB connected.
+2024-04-15T13:21:37.312Z [INFO]: IND_current_time: 2024-04-15 18:51:37 PM, message: MongoDB connected.
+2024-04-15T13:21:40.354Z [INFO]: IND_current_time: 2024-04-15 18:51:40 PM, message: MongoDB connected.
+2024-04-15T13:21:42.164Z [INFO]: IND_current_time: 2024-04-15 18:51:42 PM, message: MongoDB connected.
+2024-04-15T13:21:47.697Z [INFO]: IND_current_time: 2024-04-15 18:51:47 PM, message: MongoDB connected.
+2024-04-15T13:21:50.793Z [INFO]: IND_current_time: 2024-04-15 18:51:50 PM, message: MongoDB connected.
+2024-04-15T13:21:52.503Z [INFO]: IND_current_time: 2024-04-15 18:51:52 PM, message: MongoDB connected.
+2024-04-15T13:21:57.556Z [INFO]: IND_current_time: 2024-04-15 18:51:57 PM, message: MongoDB connected.
+2024-04-15T13:21:57.701Z [INFO]: IND_current_time: 2024-04-15 18:51:57 PM, message: MongoDB connected.
+2024-04-15T13:22:00.675Z [INFO]: IND_current_time: 2024-04-15 18:52:00 PM, message: MongoDB connected.
+2024-04-15T13:22:03.383Z [INFO]: IND_current_time: 2024-04-15 18:52:03 PM, message: MongoDB connected.
+2024-04-15T13:22:05.602Z [INFO]: IND_current_time: 2024-04-15 18:52:05 PM, message: MongoDB connected.
+2024-04-15T13:22:36.256Z [INFO]: IND_current_time: 2024-04-15 18:52:36 PM, message: MongoDB connected.
+2024-04-15T13:22:38.051Z [INFO]: IND_current_time: 2024-04-15 18:52:38 PM, message: MongoDB connected.
+2024-04-15T13:22:47.112Z [INFO]: IND_current_time: 2024-04-15 18:52:47 PM, message: MongoDB connected.
+2024-04-15T13:22:49.546Z [INFO]: IND_current_time: 2024-04-15 18:52:49 PM, message: MongoDB connected.
+2024-04-15T13:22:52.186Z [INFO]: IND_current_time: 2024-04-15 18:52:52 PM, message: MongoDB connected.
+2024-04-15T13:23:57.203Z [INFO]: IND_current_time: 2024-04-15 18:53:57 PM, message: MongoDB connected.
+2024-04-15T13:23:58.702Z [INFO]: IND_current_time: 2024-04-15 18:53:58 PM, message: MongoDB connected.
+2024-04-15T13:23:59.929Z [INFO]: IND_current_time: 2024-04-15 18:53:59 PM, message: MongoDB connected.
+2024-04-15T13:24:03.902Z [INFO]: IND_current_time: 2024-04-15 18:54:03 PM, message: MongoDB connected.
+2024-04-15T13:24:09.990Z [INFO]: IND_current_time: 2024-04-15 18:54:09 PM, message: MongoDB connected.
+2024-04-15T13:24:13.421Z [INFO]: IND_current_time: 2024-04-15 18:54:13 PM, message: MongoDB connected.
+2024-04-15T13:24:47.996Z [INFO]: IND_current_time: 2024-04-15 18:54:47 PM, message: MongoDB connected.
+2024-04-15T13:24:53.070Z [INFO]: IND_current_time: 2024-04-15 18:54:53 PM, message: MongoDB connected.
+2024-04-15T13:24:57.173Z [INFO]: IND_current_time: 2024-04-15 18:54:57 PM, message: MongoDB connected.
+2024-04-15T13:25:05.372Z [INFO]: IND_current_time: 2024-04-15 18:55:05 PM, message: MongoDB connected.
+2024-04-15T13:25:06.621Z [INFO]: IND_current_time: 2024-04-15 18:55:06 PM, message: MongoDB connected.
+2024-04-15T13:25:25.109Z [INFO]: IND_current_time: 2024-04-15 18:55:25 PM, message: MongoDB connected.
+2024-04-15T13:25:31.365Z [INFO]: IND_current_time: 2024-04-15 18:55:31 PM, message: MongoDB connected.
+2024-04-15T13:25:31.956Z [INFO]: IND_current_time: 2024-04-15 18:55:31 PM, message: MongoDB connected.
+2024-04-15T13:25:35.680Z [INFO]: IND_current_time: 2024-04-15 18:55:35 PM, message: MongoDB connected.
+2024-04-15T13:25:39.001Z [INFO]: IND_current_time: 2024-04-15 18:55:39 PM, message: MongoDB connected.
+2024-04-15T13:25:42.025Z [INFO]: IND_current_time: 2024-04-15 18:55:42 PM, message: MongoDB connected.
+2024-04-15T13:25:42.763Z [INFO]: IND_current_time: 2024-04-15 18:55:42 PM, message: MongoDB connected.
+2024-04-15T13:25:45.709Z [INFO]: IND_current_time: 2024-04-15 18:55:45 PM, message: MongoDB connected.
+2024-04-15T13:25:49.562Z [INFO]: IND_current_time: 2024-04-15 18:55:49 PM, message: MongoDB connected.
+2024-04-15T13:25:50.631Z [INFO]: IND_current_time: 2024-04-15 18:55:50 PM, message: PDF generated successfully.
+2024-04-15T13:25:50.767Z [INFO]: IND_current_time: 2024-04-15 18:55:50 PM, message: MongoDB connected.
+2024-04-15T13:25:51.012Z [INFO]: IND_current_time: 2024-04-15 18:55:51 PM, message: MongoDB connected.
+2024-04-15T13:25:51.866Z [INFO]: IND_current_time: 2024-04-15 18:55:51 PM, message: MongoDB connected.
+2024-04-15T13:25:59.712Z [INFO]: IND_current_time: 2024-04-15 18:55:59 PM, message: MongoDB connected.
+2024-04-15T13:25:59.889Z [INFO]: IND_current_time: 2024-04-15 18:55:59 PM, message: MongoDB connected.
+2024-04-15T13:26:04.031Z [INFO]: IND_current_time: 2024-04-15 18:56:04 PM, message: MongoDB connected.
+2024-04-15T13:26:04.188Z [INFO]: IND_current_time: 2024-04-15 18:56:04 PM, message: MongoDB connected.
+2024-04-15T13:26:06.936Z [INFO]: IND_current_time: 2024-04-15 18:56:06 PM, message: MongoDB connected.
+2024-04-15T13:26:07.082Z [INFO]: IND_current_time: 2024-04-15 18:56:07 PM, message: MongoDB connected.
+2024-04-15T13:26:08.295Z [INFO]: IND_current_time: 2024-04-15 18:56:08 PM, message: MongoDB connected.
+2024-04-15T13:26:09.563Z [INFO]: IND_current_time: 2024-04-15 18:56:09 PM, message: MongoDB connected.
+2024-04-15T13:26:15.048Z [INFO]: IND_current_time: 2024-04-15 18:56:15 PM, message: MongoDB connected.
+2024-04-15T13:26:17.483Z [INFO]: IND_current_time: 2024-04-15 18:56:17 PM, message: MongoDB connected.
+2024-04-15T13:26:19.804Z [INFO]: IND_current_time: 2024-04-15 18:56:19 PM, message: MongoDB connected.
+2024-04-15T13:26:38.691Z [INFO]: IND_current_time: 2024-04-15 18:56:38 PM, message: MongoDB connected.
+2024-04-15T13:26:42.362Z [INFO]: IND_current_time: 2024-04-15 18:56:42 PM, message: MongoDB connected.
+2024-04-15T13:26:58.951Z [INFO]: IND_current_time: 2024-04-15 18:56:58 PM, message: MongoDB connected.
+2024-04-15T13:27:00.353Z [INFO]: IND_current_time: 2024-04-15 18:57:00 PM, message: PDF generated successfully.
+2024-04-15T13:27:00.489Z [INFO]: IND_current_time: 2024-04-15 18:57:00 PM, message: MongoDB connected.
+2024-04-15T13:27:04.918Z [INFO]: IND_current_time: 2024-04-15 18:57:04 PM, message: MongoDB connected.
+2024-04-15T13:27:05.075Z [INFO]: IND_current_time: 2024-04-15 18:57:05 PM, message: MongoDB connected.
+2024-04-15T13:27:25.018Z [INFO]: IND_current_time: 2024-04-15 18:57:25 PM, message: MongoDB connected.
+2024-04-15T13:27:28.554Z [INFO]: IND_current_time: 2024-04-15 18:57:28 PM, message: MongoDB connected.
+2024-04-15T13:27:30.363Z [INFO]: IND_current_time: 2024-04-15 18:57:30 PM, message: MongoDB connected.
+2024-04-15T13:27:32.094Z [INFO]: IND_current_time: 2024-04-15 18:57:32 PM, message: MongoDB connected.
+2024-04-15T13:33:08.085Z [INFO]: IND_current_time: 2024-04-15 19:03:08 PM, message: MongoDB connected.
+2024-04-15T13:33:09.317Z [INFO]: IND_current_time: 2024-04-15 19:03:09 PM, message: MongoDB connected.
+2024-04-15T13:33:15.951Z [INFO]: IND_current_time: 2024-04-15 19:03:15 PM, message: MongoDB connected.
+2024-04-15T13:33:20.435Z [INFO]: IND_current_time: 2024-04-15 19:03:20 PM, message: MongoDB connected.
+2024-04-15T13:33:23.365Z [INFO]: IND_current_time: 2024-04-15 19:03:23 PM, message: MongoDB connected.
+2024-04-15T13:36:08.303Z [INFO]: IND_current_time: 2024-04-15 19:06:08 PM, message: MongoDB connected.
+2024-04-15T13:39:35.278Z [INFO]: IND_current_time: 2024-04-15 19:09:35 PM, message: MongoDB connected.
+2024-04-15T13:39:43.484Z [INFO]: IND_current_time: 2024-04-15 19:09:43 PM, message: MongoDB connected.
+2024-04-15T13:39:59.856Z [INFO]: IND_current_time: 2024-04-15 19:09:59 PM, message: MongoDB connected.
+2024-04-15T13:40:06.895Z [INFO]: IND_current_time: 2024-04-15 19:10:06 PM, message: MongoDB connected.
+2024-04-15T13:40:10.586Z [INFO]: IND_current_time: 2024-04-15 19:10:10 PM, message: MongoDB connected.
+2024-04-15T13:40:13.027Z [INFO]: IND_current_time: 2024-04-15 19:10:13 PM, message: MongoDB connected.
+2024-04-15T13:40:39.609Z [INFO]: IND_current_time: 2024-04-15 19:10:39 PM, message: MongoDB connected.
+2024-04-15T13:42:09.028Z [INFO]: IND_current_time: 2024-04-15 19:12:09 PM, message: MongoDB connected.
+2024-04-15T13:42:15.755Z [INFO]: IND_current_time: 2024-04-15 19:12:15 PM, message: MongoDB connected.
+2024-04-15T13:42:28.692Z [INFO]: IND_current_time: 2024-04-15 19:12:28 PM, message: MongoDB connected.
+2024-04-15T13:42:39.991Z [INFO]: IND_current_time: 2024-04-15 19:12:39 PM, message: MongoDB connected.
+2024-04-15T13:42:44.844Z [INFO]: IND_current_time: 2024-04-15 19:12:44 PM, message: MongoDB connected.
+2024-04-15T13:42:46.153Z [INFO]: IND_current_time: 2024-04-15 19:12:46 PM, message: MongoDB connected.
+2024-04-15T13:42:48.981Z [INFO]: IND_current_time: 2024-04-15 19:12:48 PM, message: MongoDB connected.
+2024-04-15T13:43:17.614Z [INFO]: IND_current_time: 2024-04-15 19:13:17 PM, message: MongoDB connected.
+2024-04-15T13:43:30.296Z [INFO]: IND_current_time: 2024-04-15 19:13:30 PM, message: MongoDB connected.
+2024-04-15T13:43:32.384Z [INFO]: IND_current_time: 2024-04-15 19:13:32 PM, message: MongoDB connected.
+2024-04-15T13:46:22.418Z [INFO]: IND_current_time: 2024-04-15 19:16:22 PM, message: MongoDB connected.
+2024-04-15T13:50:29.873Z [INFO]: IND_current_time: 2024-04-15 19:20:29 PM, message: MongoDB connected.
+2024-04-15T13:50:30.841Z [INFO]: IND_current_time: 2024-04-15 19:20:30 PM, message: MongoDB connected.
+2024-04-15T13:50:31.712Z [INFO]: IND_current_time: 2024-04-15 19:20:31 PM, message: MongoDB connected.
+2024-04-15T13:56:56.846Z [INFO]: IND_current_time: 2024-04-15 19:26:56 PM, message: MongoDB connected.
+2024-04-15T15:10:58.708Z [INFO]: IND_current_time: 2024-04-15 20:40:58 PM, message: MongoDB connected.
+2024-04-15T15:10:59.562Z [INFO]: IND_current_time: 2024-04-15 20:40:59 PM, message: MongoDB connected.
+2024-04-15T15:11:00.428Z [INFO]: IND_current_time: 2024-04-15 20:41:00 PM, message: MongoDB connected.
+2024-04-15T15:11:02.349Z [INFO]: IND_current_time: 2024-04-15 20:41:02 PM, message: MongoDB connected.
+2024-04-15T15:11:03.248Z [INFO]: IND_current_time: 2024-04-15 20:41:03 PM, message: MongoDB connected.
+2024-04-15T15:11:05.303Z [INFO]: IND_current_time: 2024-04-15 20:41:05 PM, message: MongoDB connected.
+2024-04-15T15:11:12.652Z [INFO]: IND_current_time: 2024-04-15 20:41:12 PM, message: MongoDB connected.
+2024-04-15T15:11:16.604Z [INFO]: IND_current_time: 2024-04-15 20:41:16 PM, message: MongoDB connected.
+2024-04-15T15:11:18.131Z [INFO]: IND_current_time: 2024-04-15 20:41:18 PM, message: MongoDB connected.
+2024-04-15T15:11:29.649Z [INFO]: IND_current_time: 2024-04-15 20:41:29 PM, message: MongoDB connected.
+2024-04-15T15:11:31.392Z [INFO]: IND_current_time: 2024-04-15 20:41:31 PM, message: MongoDB connected.
+2024-04-15T15:11:32.779Z [INFO]: IND_current_time: 2024-04-15 20:41:32 PM, message: MongoDB connected.
+2024-04-15T15:11:33.678Z [INFO]: IND_current_time: 2024-04-15 20:41:33 PM, message: MongoDB connected.
+2024-04-15T15:11:34.353Z [INFO]: IND_current_time: 2024-04-15 20:41:34 PM, message: MongoDB connected.
+2024-04-15T15:11:36.069Z [INFO]: IND_current_time: 2024-04-15 20:41:36 PM, message: MongoDB connected.
+2024-04-15T15:11:36.924Z [INFO]: IND_current_time: 2024-04-15 20:41:36 PM, message: MongoDB connected.
+2024-04-15T15:46:49.906Z [INFO]: IND_current_time: 2024-04-15 21:16:49 PM, message: MongoDB connected.
+2024-04-15T15:46:51.600Z [INFO]: IND_current_time: 2024-04-15 21:16:51 PM, message: MongoDB connected.
+2024-04-15T15:46:54.133Z [INFO]: IND_current_time: 2024-04-15 21:16:54 PM, message: MongoDB connected.
+2024-04-15T15:46:54.927Z [INFO]: IND_current_time: 2024-04-15 21:16:54 PM, message: MongoDB connected.
+2024-04-15T15:46:55.619Z [INFO]: IND_current_time: 2024-04-15 21:16:55 PM, message: MongoDB connected.
+2024-04-15T15:46:56.283Z [INFO]: IND_current_time: 2024-04-15 21:16:56 PM, message: MongoDB connected.
+2024-04-15T15:46:56.880Z [INFO]: IND_current_time: 2024-04-15 21:16:56 PM, message: MongoDB connected.
+2024-04-15T15:46:57.392Z [INFO]: IND_current_time: 2024-04-15 21:16:57 PM, message: MongoDB connected.
+2024-04-15T15:46:57.850Z [INFO]: IND_current_time: 2024-04-15 21:16:57 PM, message: MongoDB connected.
+2024-04-15T15:46:59.739Z [INFO]: IND_current_time: 2024-04-15 21:16:59 PM, message: MongoDB connected.
+2024-04-15T16:22:21.912Z [INFO]: IND_current_time: 2024-04-15 21:52:21 PM, message: MongoDB connected.
+2024-04-15T16:22:23.551Z [INFO]: IND_current_time: 2024-04-15 21:52:23 PM, message: MongoDB connected.
+2024-04-15T18:53:23.190Z [INFO]: IND_current_time: 2024-04-16 00:23:23 AM, message: MongoDB connected.
+2024-04-15T18:53:24.481Z [INFO]: IND_current_time: 2024-04-16 00:23:24 AM, message: MongoDB connected.

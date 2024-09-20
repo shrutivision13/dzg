@@ -655,6 +655,7 @@ function List() {
 					}}
 					paginationDefaultPage={currentPage}
 					paginationTotalRows={totalRecords}
+					sortServer
 					onSort={handleSort}
 					fixedHeader
 				/>
